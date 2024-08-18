@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "exploreDescription": "ai-music-generator.aiでAIが生成した音楽を探索してください。",
+    "exploreTitle": "AIミュージックを探索する | ai-music-generator.ai",
+    "title": "無料AI音楽ジェネレーター - ai-music-generator.ai",
+    "genresTitle": "すべてのジャンル | ai-music-generator.ai",
+    "blogTitle": "ブログ",
+    "description": "ai-music-generator.ai - オンラインAI音楽ジェネレーター。無料で独自のAI曲を作成します。参加して、MP3をダウンロードして、今すぐAI音楽をお楽しみください！",
+    "genreDescription": "ai-music-generator.aiで{genreName}音楽の{genreSongNumber}曲を発見してください",
+    "genresDescription": "ジャンル別にAI音楽を探索します。",
+    "genreTitle": "{genreName}音楽 | ai-music-generator.ai",
+    "albumsDescription": "アルバムやその他のコンテンツをお探しですか？",
+    "albumsTitle": "人気のアルバム | ai-music-generator.ai",
+    "albumTitle": "{albumName} - {userName} によるアルバム | ai-music-generator.ai",
+    "songDescription": "Startkitで{userName}の{songName}を聴いてください。 · 歌曲 · 2024.",
+    "songTitle": "{songName} - {userName} 作詞・作曲 | ai-music-generator.ai",
+    "pricingTitle": "価格設定 | ai-music-generator.ai",
+    "albumDescription": "AIミュージックジェネレーターで{albumName}を聴く。{userName} · アルバム · 2024年 · {albumSongNumber}曲。",
+    "userTitle": "{userName} | ai-music-generator.ai",
+    "pricingDescription": "必要な分だけ支払い、誰もが音楽制作の新時代を開く。",
+    "userDescription": "AIミュージックジェネレーターで{userName}の音楽を聴いてください。Creators.",
+    "notFoundTitle": "見つかりません | ai-music-generator.ai"
+  },
+  "navbar": {
+    "signOut": "サインアウト",
+    "home": "AI音楽生成器",
+    "signIn": "サインイン",
+    "blog": "ブログ",
+    "explore": "AIミュージックを探索",
+    "profile": "プロフィール",
+    "genres": "音楽ジャンル",
+    "albums": "音楽アルバム",
+    "pricing": "価格",
+    "account": "アカウント",
+    "billing": "請求",
+    "emailCopyDescription": "メールアドレスがコピーされました",
+    "generateTimes": "{points} 生成回数",
+    "support": "サポート"
+  },
+  "authenticate": {
+    "signInTitle": "サインイン",
+    "signUpTitle": "サインアップ",
+    "forgetPassword": "パスワードをお忘れですか？",
+    "email": "メール",
+    "updatePasswordTitle": "パスワードを更新",
+    "resetPasswordTitle": "パスワードをリセット",
+    "password": "パスワード",
+    "signUpGoogle": "Googleでサインアップ",
+    "signInCode": "ログインコードを入力して続行",
+    "magicLink": "マジックリンク経由",
+    "resendIn": "{countdown}で再送信",
+    "resend": "再送信",
+    "loginCode": "ログインコード",
+    "signIn": "メールで続行",
+    "signUp": "サインアップ",
+    "newPassword": "新しいパスワード",
+    "withEmailAndPassword": "メールアドレスとパスワードで認証",
+    "dontHaveAccount": "アカウントをお持ちでないですか？",
+    "sendEmail": "メールを送信",
+    "confirmNewPassword": "新しいパスワードを確認",
+    "updatePassword": "パスワードを更新",
+    "alreadyHaveAccount": "アカウントをお持ちですか？"
+  },
+  "index": {
+    "highlight": {
+      "text2": "作成されました",
+      "text1": "曲",
+      "text3": "プロフェッショナル",
+      "text6": "ダウンロード",
+      "text5": "週刊",
+      "text4": "クリエイター"
+    },
+    "title": "AI音楽ジェネレーター 無料オンライン",
+    "description": "誰もが素晴らしい音楽を作れる未来を築く。想像力だけで、あなたの考えから音楽へ。",
+    "form": {
+      "title": "新しい曲について教えてください ✍️",
+      "placeholder": "あなたに再会できるのが待ちきれないという感情を歌った曲",
+      "requiredError": "曲の説明が必要です",
+      "buttonText": "試してみてください！"
+    },
+    "creators": "人気の音楽クリエイター",
+    "showAll": "すべて表示",
+    "trending": "トレンド中のAI音楽",
+    "albums": "人気のあるAI音楽アルバム",
+    "faq": {
+      "question2": {
+        "title": "AIミュージックジェネレーターを無料で使用できますか？",
+        "content": "はい、Startkitには基本機能を備えた無料版が提供されています。高度な機能や商用利用をする場合は、定期購読または支払いが必要となることがあります。"
+      },
+      "title": "よくある質問",
+      "question1": {
+        "title": "AIミュージックジェネレーターとは何ですか？",
+        "content": "Startkitは、ジャンルを横断した高品質な作曲を生み出す先進的な音楽生成プログラムです。最新バージョンはオーディオ品質でスタジオ制作と肩を並べるものであり、ユーザーの創造的ビジョンに沿ったユニークかつパーソナライズされた音楽制作を提供しています。"
+      },
+      "question4": {
+        "title": "AIで生成された音楽を商業目的で使用することはできますか？",
+        "content": "はい、AIが生成した音楽を商業目的で使用することができます。ただし、特定の使用例に適用される商用利用、帰属要件、およびライセンス料に関するStartkitの利用条件を確認して遵守することが重要です。"
+      },
+      "question3": {
+        "title": "AIミュージックジェネレーターで楽器やサウンドをカスタマイズすることはできますか？",
+        "content": "はい、AIミュージックジェネレーターの楽曲で楽器やサウンドをカスタマイズすることができます。この機能により、ユーザーは自分の作品に望む音楽効果や独自性を実現することができます。"
+      },
+      "question5": {
+        "title": "AIミュージックジェネレーターはどのように音楽を生成しますか？",
+        "content": "Startkitは、音楽のパターン、スタイル、構造を分析するために高度なアルゴリズムと機械学習技術を利用しています。",
+        "content2": "ユーザーの入力と好みに合わせてオリジナルの作曲を生成します。"
+      },
+      "question8": {
+        "title": "AIミュージックジェネレーターの返金ポリシーは何ですか？",
+        "content": "AI処理に必要な膨大なリソースのため、残念ながら返金はできません。"
+      },
+      "question7": {
+        "title": "支払いサービスは安全ですか？",
+        "content": "当然です。私たちの支払いサービスは安全です。すべての金融処理をStripeに委託し、カードの詳細情報は一切保持しません。Stripeは銀行と同等のセキュリティ基準を保証しています。"
+      },
+      "question6": {
+        "title": "AIミュージックジェネレーターで作成した音楽をどのように共有できますか？",
+        "content": "通常、Startkitで作成した音楽は、プラットフォームから直接ソーシャルメディアや音楽ストリーミングサービス、個人のウェブサイトに共有することができます。これは、プラットフォームの共有機能や契約を活用して行われます。"
+      }
+    },
+    "genres": "AIミュージックのジャンル",
+    "plan": {
+      "upgradeNormalDescription": "アカウントにさらに回数を追加し、都度支払いを行います",
+      "upgradeNormalTitle": "生成回数が不足しています",
+      "title": "都度支払い",
+      "upgradeDownloadTitle": "無制限ダウンロードのアップグレード",
+      "description": "誰もが音楽制作の新時代を開く。",
+      "upgradePrivateTitle": "プライベート曲のアップグレード",
+      "plan1": {
+        "buttonText": "開始する",
+        "description": "一度きりの支払い",
+        "title": "無料",
+        "text3": "ロスレスオーディオ品質",
+        "text1": "10回生成",
+        "text6": "24時間365日のメールサポート",
+        "text2": "無料トライアル",
+        "text4": "無制限のダウンロード",
+        "text5": "プライベートな曲"
+      },
+      "upgradePrivateDescription": "アカウントにさらに回数を追加し、都度支払いを行います",
+      "upgradeDownloadDescription": "アカウントにさらに時間を追加し、都度支払いを行います",
+      "plan2": {
+        "title": "最も人気",
+        "description": "一度きりの支払い",
+        "text2": "$0.01 per songs",
+        "text3": "ロスレスオーディオ品質",
+        "text1": "1000回生成",
+        "buttonText": "開始",
+        "text5": "プライベートな曲",
+        "text7": "1年間利用可能",
+        "text6": "24時間×7日間のメールサポート",
+        "text4": "無制限のダウンロード"
+      },
+      "plan3": {
+        "title": "基本",
+        "description": "一度きりの支払い",
+        "text2": "曲ごとに$0.02",
+        "buttonText": "開始する",
+        "text3": "ロスレスオーディオ品質",
+        "text5": "プライベートな曲",
+        "text1": "500回生成",
+        "text4": "無制限のダウンロード",
+        "text6": "24時間365日のメールサポート",
+        "text7": "1年間利用可能"
+      }
+    },
+    "bottomDescription": {
+      "title": "何かについての歌を作ってください",
+      "buttonText": "あなたの曲を作成してください",
+      "description": "Startkitを今すぐお試しください。クレジットカードは必要ありません。"
+    }
+  },
+  "explore": {
+    "title": "AIミュージックを発見",
+    "songTable": {
+      "title": "タイトル",
+      "album": "アルバム",
+      "date": "追加日"
+    },
+    "buttonText": "あなたの曲を作成してください",
+    "description": "{songnumber}曲以上の楽曲が作成されました"
+  },
+  "genres": {
+    "title": "すべてのAI音楽ジャンル",
+    "description": "Startkitを今すぐお試しください。クレジットカードは必要ありません。",
+    "buttonText": "あなたの曲を作成してください"
+  },
+  "albums": {
+    "description": "Startkitを今すぐお試しください。クレジットカードは必要ありません。",
+    "buttonText": "あなたの曲を作成してください",
+    "title": "人気のAI音楽アルバム"
+  },
+  "genre": {
+    "title": "{genrename} 音楽",
+    "songTable": {
+      "album": "アルバム",
+      "title": "タイトル",
+      "action": "アクション",
+      "download": "MP3をダウンロード",
+      "copyLink": "曲リンクをコピー",
+      "copyLinkToastDescription": "曲リンクがコピーされました",
+      "date": "追加日付",
+      "rename": "名前変更",
+      "changeAlbumModalTitle": "アルバムに追加",
+      "renameModalButtonText": "確認",
+      "renameToastDescription": "保存されました",
+      "private": "プライベート",
+      "addToAlbum": "アルバムに追加"
+    },
+    "buttonText": "あなたの曲を作成してください",
+    "description": "{songnumber}曲以上の楽曲が作成されました",
+    "tab": {
+      "songs": "曲",
+      "albums": "アルバム"
+    }
+  },
+  "song": {
+    "title": "曲",
+    "dropdown": {
+      "copyLink": "曲のリンクをコピー",
+      "download": "MP3をダウンロード",
+      "addToAlbum": "アルバムに追加",
+      "renameToastDescription": "保存されました",
+      "rename": "名前を変更",
+      "copyLinkToastDescription": "曲リンクがコピーされました",
+      "changeAlbumModalTitle": "アルバムに追加",
+      "privateUpgradeButtonText": "アカウントをアップグレード",
+      "downloadUpgradeTitle": "無制限の音楽ダウンロードを解除",
+      "privateUpgradeTitle": "あなたの音楽をプライベートに保つ",
+      "private": "プライベート",
+      "renameModalButtonText": "確認",
+      "save": "保存",
+      "deleteError": "曲が含まれているアルバムを削除できません。",
+      "uploadCover": "カバーをアップロード",
+      "deleted": "削除されました",
+      "editAlbum": "アルバムを編集",
+      "downloadUpgradeButtonText": "今すぐアップグレード",
+      "edit": "編集",
+      "delete": "削除",
+      "albumTitleSchemaError": "デフォルトのアルバムタイトルはすでに存在しています",
+      "name": "名前",
+      "userError": "ユーザー情報の更新中にエラーが発生しました。",
+      "saved": "保存済み"
+    },
+    "relatedGenres": "関連ジャンル",
+    "relatedAlbums": "関連アルバム",
+    "recommended": "おすすめ"
+  },
+  "shareButton": {
+    "toastDescription": "コピー共有リンク成功",
+    "buttonText": "共有"
+  },
+  "album": {
+    "title": "アルバム",
+    "albumSongTable": {
+      "date": "追加日",
+      "title": "タイトル",
+      "action": "アクション",
+      "toastRemoved": "削除されました",
+      "remove": "削除",
+      "toastFailToRemoved": "アルバムから曲を削除できませんでした"
+    },
+    "moreByUserTitle": "{username}によるその他の作品",
+    "modal": {
+      "title": "このアルバムから削除してもよろしいですか？",
+      "confirmButton": "はい、確信しています",
+      "cancelButton": "いいえ、キャンセル"
+    }
+  },
+  "user": {
+    "editUser": {
+      "saved": "保存されました",
+      "edit": "編集",
+      "modalButtonText": "保存",
+      "userNameNeedEdit": "ユーザー名は変更されていません",
+      "uploadAvatar": "アバターをアップロード",
+      "modalTitle": "プロフィールを編集",
+      "name": "ユーザー名",
+      "userNameSchemaError": "名前は小文字のアルファベット（a-z）、数字（0-9）、およびハイフン（-）のみを含むことができます。数字で始めることはできません。",
+      "userNameExists": "ユーザー名はすでに存在しています"
+    },
+    "tab": {
+      "songs": "曲",
+      "albums": "アルバム",
+      "createMusic": "音楽を作成",
+      "create": "作成",
+      "createAlbum": "アルバムを作成",
+      "genres": "ジャンル",
+      "name": "名前"
+    },
+    "songTable": {
+      "title": "タイトル",
+      "action": "アクション",
+      "album": "アルバム",
+      "date": "追加日",
+      "rename": "名前変更",
+      "copyLink": "曲のリンクをコピー",
+      "addToAlbum": "アルバムに追加",
+      "download": "MP3をダウンロード",
+      "copyLinkToastDescription": "曲リンクがコピーされました",
+      "renameToastDescription": "保存されました",
+      "changeAlbumModalTitle": "アルバムに追加",
+      "delete": "削除",
+      "creating": "作成",
+      "renameModalButtonText": "確認",
+      "private": "プライベート",
+      "inProgress": "進行中",
+      "downloadUpgradeButtonText": "今すぐアップグレード",
+      "privateUpgradeButtonText": "アカウントをアップグレード",
+      "privateUpgradeTitle": "あなたの音楽をプライベートに保つ",
+      "downloadUpgradeTitle": "無制限の音楽ダウンロードを解除"
+    }
+  },
+  "notFound": {
+    "title": "何かが足りません。",
+    "description": "申し訳ありませんが、そのページは見つかりません。ホームページでたくさんの情報を見つけることができます。",
+    "buttonText": "ホームページに戻る"
+  },
+  "musicGenerateModal": {
+    "songRequired": "曲の説明が必要です",
+    "songGeneratingDescription": "プロフィールページであなたの曲を確認できます",
+    "songGeneratingErrorTitle": "うーん...何かがうまくいきませんでした。",
+    "pointsError": "曲を生成するのに十分なポイントがありません。",
+    "songGeneratingTitle": "あなたの曲が生成されています",
+    "titleRequired": "タイトルは必須です",
+    "songDescription": "曲の説明",
+    "genreRequired": "ジャンルは必須です",
+    "autoMode": "自動モード",
+    "lyricsRequired": "歌詞が必要です",
+    "songDescriptionPlaceholder": "新しい曲のスタイルやトピックを説明してください（例：「休日についてのアコースティックポップ」）。特定のアーティストや曲ではなく、ジャンルや雰囲気を使用してください。",
+    "customMode": "カスタムモード",
+    "lyrics": "歌詞",
+    "instrumental": "インストゥルメンタル",
+    "createMusic": "音楽を作成",
+    "tooltip": "歌詞のない曲を作成します。",
+    "lyricsDescriptionPlaceholder": "自分で書くか、AIから助けを借りてください。最高の結果を得るために2つの詩節（8行）を使用してください。",
+    "randomStyle": "ランダムスタイルを使用します",
+    "songTitle": "タイトル",
+    "songTitleDescriptionPlaceholder": "共有、発見、および整理のためのタイトル。",
+    "genreTitle": "音楽のスタイル",
+    "genreDescriptionPlaceholder": "あなたが望む音楽のスタイルを説明してください（例：「アコースティックポップ」）。 アーティストの名前は認識しませんが、ジャンルや雰囲気について理解します。"
+  },
+  "footer": {
+    "title": "AI音楽生成器",
+    "legal": "法的",
+    "termsOfService": "利用規約",
+    "about": "AIミュージックジェネレーター",
+    "contact": "連絡",
+    "privacyPolicy": "プライバシーポリシー",
+    "company": "会社",
+    "contactUs": "お問い合わせ"
+  }
+}

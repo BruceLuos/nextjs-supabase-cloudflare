@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "title": "Generador de Música AI Gratuito - ai-music-generator.ai",
+    "blogTitle": "Blog",
+    "exploreDescription": "Explora música generada por IA en ai-music-generator.ai.",
+    "genresTitle": "Todos los géneros | ai-music-generator.ai",
+    "exploreTitle": "Explorar Música de IA | ai-music-generator.ai",
+    "description": "ai-music-generator.ai - Generador de música AI en línea. Crea canciones únicas de IA de forma gratuita. ¡Únete, descarga MP3 y disfruta de la música AI ahora!",
+    "albumsTitle": "Álbumes Populares | ai-music-generator.ai",
+    "albumTitle": "{albumName} - Álbum de {userName} | ai-music-generator.ai",
+    "genresDescription": "Explora la música de IA por géneros.",
+    "genreDescription": "Descubre {genreSongNumber} canciones de música {genreName} en ai-music-generator.ai",
+    "genreTitle": "Música de {genreName} | ai-music-generator.ai",
+    "albumsDescription": "Buscando algo? Encuentra álbumes y más.",
+    "albumDescription": "Escucha {albumName} en nextjs-supabase-cloudflare. {userName} · Álbum · 2024 · {albumSongNumber} canciones.",
+    "songTitle": "{songName} - canción y letras por {userName} | ai-music-generator.ai",
+    "pricingDescription": "Pague según su uso, desbloquee una Nueva Era de Creación Musical para Todos.",
+    "pricingTitle": "Precios | ai-music-generator.ai",
+    "songDescription": "Escucha {songName} en nextjs-supabase-cloudflare. {userName} · Canción · 2024.",
+    "userTitle": "{userName} | ai-music-generator.ai",
+    "userDescription": "Escucha a {userName} en nextjs-supabase-cloudflare. Creadores.",
+    "notFoundTitle": "no encontrado | ai-music-generator.ai"
+  },
+  "navbar": {
+    "signIn": "Iniciar sesión",
+    "home": "Generador de Música de IA",
+    "signOut": "Cerrar sesión",
+    "blog": "Blog",
+    "profile": "Perfil",
+    "account": "Cuenta",
+    "genres": "Géneros musicales",
+    "explore": "Explorar Música de IA",
+    "albums": "Álbumes de Música",
+    "pricing": "Precios",
+    "support": "Soporte",
+    "emailCopyDescription": "Dirección de correo electrónico copiada",
+    "generateTimes": "Generar tiempos",
+    "billing": "Facturación"
+  },
+  "authenticate": {
+    "signUpTitle": "Regístrese",
+    "signInTitle": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "updatePasswordTitle": "Actualizar Contraseña",
+    "signUpGoogle": "Regístrese con Google",
+    "password": "Contraseña",
+    "resetPasswordTitle": "Restablecer contraseña",
+    "forgetPassword": "¿Olvidaste tu contraseña?",
+    "loginCode": "Código de inicio de sesión",
+    "signIn": "Continuar con correo electrónico",
+    "signInCode": "Continuar con el código de inicio de sesión",
+    "resendIn": "Reenviar en {countdown}",
+    "magicLink": "a través del enlace mágico",
+    "resend": "Reenviar",
+    "sendEmail": "Enviar correo electrónico",
+    "dontHaveAccount": "¿Todavía no tienes una cuenta?",
+    "signUp": "Regístrese",
+    "confirmNewPassword": "Confirmar nueva contraseña",
+    "newPassword": "Nueva contraseña",
+    "withEmailAndPassword": "con correo electrónico y contraseña",
+    "updatePassword": "Actualizar contraseña",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?"
+  },
+  "index": {
+    "highlight": {
+      "text1": "Canciones",
+      "text2": "creado",
+      "text4": "Creadores",
+      "text5": "Semanal",
+      "text6": "Descargas",
+      "text3": "Profesional"
+    },
+    "title": "Generador de Música AI Gratis en Línea",
+    "description": "Construyendo un futuro donde cualquiera pueda crear música excelente. Solo imaginación, de tu mente a la música.",
+    "form": {
+      "placeholder": "Una canción emocional sobre no poder esperar para verte de nuevo",
+      "title": "Cuéntame sobre tu nueva canción ✍️",
+      "buttonText": "¡Pruébalo!",
+      "requiredError": "La descripción de la canción es obligatoria."
+    },
+    "trending": "Música AI Tendencia",
+    "creators": "Creadores de música populares",
+    "showAll": "Mostrar todo",
+    "albums": "Álbumes de música AI populares",
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "question1": {
+        "title": "¿Qué es el Generador de Música AI?",
+        "content": "El Generador de Música AI es un generador de música avanzado que produce composiciones de alta calidad en diversos géneros. Su última versión rivaliza con las producciones de estudio en calidad de audio, ofreciendo una creación musical única y personalizada alineada con las visiones creativas de los usuarios."
+      },
+      "question2": {
+        "content": "Sí, nextjs-supabase-cloudflare ofrece una versión gratuita con funciones básicas. Funcionalidades avanzadas y uso comercial pueden requerir una suscripción o pago.",
+        "title": "¿Es gratuito usar nextjs-supabase-cloudflare?"
+      },
+      "question3": {
+        "title": "¿Puedo personalizar instrumentos y sonidos en el Generador de Música de IA?",
+        "content": "Sí, puedes personalizar instrumentos y sonidos en las composiciones del Generador de Música AI. Esta función permite a los usuarios lograr efectos musicales deseados y singularidad en sus creaciones."
+      },
+      "question5": {
+        "title": "¿Cómo genera música el Generador de Música AI?",
+        "content": "El Generador de Música AI utiliza algoritmos avanzados y técnicas de aprendizaje automático para analizar patrones, estilos y estructuras musicales.",
+        "content2": "Luego genera composiciones originales adaptadas a las entradas y preferencias del usuario."
+      },
+      "question4": {
+        "title": "¿Puedo utilizar la música generada por IA con fines comerciales?",
+        "content": "Sí, puedes utilizar la música generada por IA con fines comerciales. Sin embargo, es importante revisar y cumplir con los términos de uso de nextjs-supabase-cloudflare en lo que respecta al uso comercial, requisitos de atribución y cualquier tarifa de licencia que pueda aplicarse a casos de uso específicos."
+      },
+      "question8": {
+        "title": "¿Cuál es la política de reembolso del Generador de Música AI?",
+        "content": "Lamentablemente, debido a los importantes recursos necesarios para el procesamiento de IA, no podemos ofrecer reembolsos."
+      },
+      "question6": {
+        "title": "¿Cómo puedo compartir la música creada con nextjs-supabase-cloudflare?",
+        "content": "Por lo general, puedes compartir tu música creada con nextjs-supabase-cloudflare directamente desde la plataforma a redes sociales, servicios de transmisión de música o sitios web personales, aprovechando las capacidades y acuerdos de intercambio de la plataforma."
+      },
+      "question7": {
+        "title": "¿Es seguro el servicio de pago?",
+        "content": "Absolutamente, nuestro servicio de pago es seguro. Confiamos todo el procesamiento financiero a Stripe y no conservamos ninguno de los detalles de su tarjeta. Stripe garantiza estándares de seguridad equivalentes a los de los bancos."
+      }
+    },
+    "genres": "Géneros en la Música de IA",
+    "plan": {
+      "title": "Pagar según se use",
+      "upgradeNormalTitle": "Insuficiente cantidad de generaciones",
+      "upgradeNormalDescription": "Agrega más veces a tu cuenta, paga según lo utilices.",
+      "upgradeDownloadTitle": "Actualización para Descargas Ilimitadas",
+      "description": "Desbloquea una Nueva Era de Creación Musical para Todos.",
+      "plan1": {
+        "title": "Gratis",
+        "description": "Pago único",
+        "buttonText": "Comenzar",
+        "text5": "Canciones privadas",
+        "text1": "10 Generar veces",
+        "text2": "prueba gratuita",
+        "text6": "Soporte por correo electrónico 24x7",
+        "text3": "Calidad de audio sin pérdidas",
+        "text4": "Descargas ilimitadas"
+      },
+      "upgradePrivateTitle": "Actualización para Canciones Privadas",
+      "upgradePrivateDescription": "Agrega más veces a tu cuenta, paga según lo utilices.",
+      "upgradeDownloadDescription": "Agrega más veces a tu cuenta, paga según lo necesites.",
+      "plan2": {
+        "title": "Más popular",
+        "text3": "Calidad de audio sin pérdida",
+        "text1": "1000 veces de generación",
+        "text2": "$0.01 por canción",
+        "buttonText": "Comenzar",
+        "description": "Pago único",
+        "text5": "Canciones privadas",
+        "text6": "Soporte por correo electrónico 24x7",
+        "text7": "Disponible por 1 año",
+        "text4": "Descargas ilimitadas"
+      },
+      "plan3": {
+        "description": "Pago único",
+        "title": "Básico",
+        "text4": "Descargas ilimitadas",
+        "text1": "500 veces de generación",
+        "text3": "Calidad de audio sin pérdidas",
+        "text2": "$0.02 por canción",
+        "buttonText": "Comenzar",
+        "text5": "Canciones privadas",
+        "text6": "Soporte por correo electrónico 24x7",
+        "text7": "Disponible por 1 año"
+      }
+    },
+    "bottomDescription": {
+      "description": "Prueba nextjs-supabase-cloudflare ahora. No se requiere tarjeta de crédito.",
+      "buttonText": "Haz tus canciones",
+      "title": "Haz una canción sobre cualquier cosa"
+    }
+  },
+  "explore": {
+    "title": "Descubrir Música de IA",
+    "songTable": {
+      "album": "Álbum",
+      "title": "Título",
+      "date": "Fecha añadida"
+    },
+    "description": "Se han creado más de {songnumber} canciones.",
+    "buttonText": "Haz tus canciones"
+  },
+  "genres": {
+    "title": "Todos los géneros de música AI",
+    "buttonText": "Haz tus canciones",
+    "description": "Prueba nextjs-supabase-cloudflare ahora. No se requiere tarjeta de crédito."
+  },
+  "genre": {
+    "title": "Música de {genrename}",
+    "songTable": {
+      "title": "Título",
+      "album": "Álbum",
+      "copyLink": "Copiar enlace de canción",
+      "copyLinkToastDescription": "Enlace de canción copiado",
+      "action": "Acción",
+      "rename": "Cambiar el nombre",
+      "download": "Descargar MP3",
+      "date": "Fecha añadida",
+      "renameToastDescription": "Guardado",
+      "changeAlbumModalTitle": "Agregar al Álbum",
+      "addToAlbum": "Agregar al álbum",
+      "private": "Privado",
+      "renameModalButtonText": "Confirmar"
+    },
+    "buttonText": "Haz tus canciones",
+    "tab": {
+      "songs": "Canciones",
+      "albums": "Álbumes"
+    },
+    "description": "Se han creado más de {songnumber} canciones."
+  },
+  "albums": {
+    "description": "Prueba nextjs-supabase-cloudflare ahora. No se requiere tarjeta de crédito.",
+    "buttonText": "Haz tus canciones",
+    "title": "Álbumes Populares de Música AI"
+  },
+  "song": {
+    "title": "Canción",
+    "dropdown": {
+      "copyLink": "Copiar enlace de canción",
+      "copyLinkToastDescription": "Enlace de canción copiado",
+      "renameToastDescription": "Guardado",
+      "download": "Descargar MP3",
+      "rename": "Cambiar el nombre",
+      "addToAlbum": "Agregar al álbum",
+      "private": "Privado",
+      "downloadUpgradeTitle": "Desbloquea descargas de música ilimitadas",
+      "privateUpgradeTitle": "Mantén tu música privada",
+      "privateUpgradeButtonText": "Actualizar su cuenta",
+      "renameModalButtonText": "Confirmar",
+      "changeAlbumModalTitle": "Agregar al Álbum",
+      "editAlbum": "Editar Álbum",
+      "downloadUpgradeButtonText": "Actualizar ahora",
+      "uploadCover": "Subir Portada",
+      "deleted": "Eliminado",
+      "deleteError": "No se puede eliminar álbumes con canciones.",
+      "save": "Guardar",
+      "name": "Nombre",
+      "delete": "Eliminar",
+      "saved": "Guardado",
+      "albumTitleSchemaError": "El título del álbum predeterminado ya existe",
+      "userError": "Error al actualizar la información del usuario.",
+      "edit": "Editar"
+    },
+    "relatedGenres": "Género Relacionado",
+    "relatedAlbums": "Álbumes Relacionados",
+    "recommended": "Recomendado"
+  },
+  "shareButton": {
+    "toastDescription": "Copia del enlace compartida exitosa.",
+    "buttonText": "Compartir"
+  },
+  "album": {
+    "title": "Álbum",
+    "albumSongTable": {
+      "title": "Título",
+      "action": "Acción",
+      "remove": "Eliminar",
+      "toastRemoved": "Eliminado",
+      "date": "Fecha añadida",
+      "toastFailToRemoved": "No se pudo eliminar la canción del álbum"
+    },
+    "moreByUserTitle": "Más de {username}",
+    "modal": {
+      "cancelButton": "No, cancelar",
+      "title": "¿Estás seguro de que quieres quitarlo de este álbum?",
+      "confirmButton": "Sí, estoy seguro."
+    }
+  },
+  "user": {
+    "editUser": {
+      "edit": "Editar",
+      "saved": "Guardado",
+      "uploadAvatar": "Subir Avatar",
+      "name": "Nombre de usuario",
+      "modalButtonText": "Guardar",
+      "userNameNeedEdit": "El nombre de usuario no ha sido cambiado",
+      "userNameSchemaError": "El nombre solo puede contener letras minúsculas (a-z), números (0-9) y guiones (-); no puede comenzar con un número.",
+      "modalTitle": "Editar perfil",
+      "userNameExists": "El nombre de usuario ya existe"
+    },
+    "tab": {
+      "create": "Crear",
+      "albums": "Álbumes",
+      "songs": "Canciones",
+      "createMusic": "Crear música",
+      "createAlbum": "Crear Álbum",
+      "name": "Nombre",
+      "genres": "Géneros"
+    },
+    "songTable": {
+      "date": "Fecha añadida",
+      "album": "Álbum",
+      "title": "Título",
+      "action": "Acción",
+      "addToAlbum": "Agregar al álbum",
+      "renameToastDescription": "Guardado",
+      "rename": "Cambiar de nombre",
+      "copyLinkToastDescription": "Enlace de canción copiado",
+      "copyLink": "Copiar enlace de canción",
+      "download": "Descargar MP3",
+      "delete": "Eliminar",
+      "creating": "Creando",
+      "private": "Privado",
+      "renameModalButtonText": "Confirmar",
+      "changeAlbumModalTitle": "Agregar al Álbum",
+      "inProgress": "En progreso",
+      "downloadUpgradeButtonText": "Actualizar ahora",
+      "privateUpgradeButtonText": "Actualizar tu cuenta",
+      "privateUpgradeTitle": "Mantén tu música privada",
+      "downloadUpgradeTitle": "Desbloquear descargas de música ilimitadas"
+    }
+  },
+  "notFound": {
+    "title": "Algo falta.",
+    "description": "Lo siento, no podemos encontrar esa página. Encontrarás mucho para explorar en la página de inicio.",
+    "buttonText": "Volver a la página de inicio"
+  },
+  "musicGenerateModal": {
+    "songRequired": "Se requiere la descripción de la canción",
+    "pointsError": "No tienes suficientes puntos para generar una canción.",
+    "songGeneratingTitle": "Tu canción se está generando.",
+    "songGeneratingDescription": "Puedes verificar tus canciones en la página de perfil.",
+    "songGeneratingErrorTitle": "Hmm... Algo salió mal.",
+    "songDescription": "Descripción de la canción",
+    "lyricsRequired": "Se requieren letras.",
+    "autoMode": "Modo automático",
+    "genreRequired": "Se requiere el género",
+    "songDescriptionPlaceholder": "Describe el estilo de música y tema que deseas (por ejemplo, 'pop acústico sobre las vacaciones'). Utiliza géneros y ambientes en lugar de artistas y canciones específicas.",
+    "titleRequired": "El título es requerido",
+    "createMusic": "Crear música",
+    "lyricsDescriptionPlaceholder": "Escribe el tuyo propio, o recibe ayuda de la IA. Utiliza dos versos (8 líneas) para obtener los mejores resultados.",
+    "lyrics": "Letra",
+    "tooltip": "Crear una canción sin letras.",
+    "instrumental": "Instrumental",
+    "customMode": "Modo personalizado",
+    "songTitleDescriptionPlaceholder": "título para compartir, descubrir y organizar.",
+    "genreTitle": "Estilo de Música",
+    "genreDescriptionPlaceholder": "Describe el estilo de música que deseas (por ejemplo, 'pop acústico'). No reconoce nombres de artistas, pero comprende géneros y ambientes.",
+    "songTitle": "Título",
+    "randomStyle": "Utilizar Estilo Aleatorio"
+  },
+  "footer": {
+    "title": "Generador de Música de IA",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "privacyPolicy": "Política de privacidad",
+    "company": "Empresa",
+    "termsOfService": "Términos de servicio",
+    "legal": "Legal",
+    "contactUs": "Contáctenos"
+  }
+}
