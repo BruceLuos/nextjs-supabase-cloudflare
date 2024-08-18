@@ -182,3 +182,4 @@ create trigger on_auth_user_created
 ## supabase [谷歌登录配置](https://supabase.com/docs/guides/auth/social-login/auth-google#configure-your-services-id)
 
 ## supabase [邮箱otp登录配置](https://supabase.com/docs/guides/auth/auth-email-passwordless)
+
