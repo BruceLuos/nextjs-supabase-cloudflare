@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Next.js Supabase Cloudflare",
+    "description": "Next.js Application with supabase and cloudflare deploy",
+    "blogTitle": "Blog",
+    "pricingTitle": "Pricing",
+    "pricingDescription": "Pay as you go",
+    "userTitle": "{userName}",
+    "userDescription": "{userName} on nextjs-supabase-cloudflare.",
+    "notFoundTitle": "not found"
+  },
+  "navbar": {
+    "home": "Home",
+    "blog": "Blog",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "pricing": "Pricing",
+    "profile": "Profile",
+    "generateTimes": "{points} Generate times",
+    "billing": "Billing",
+    "support": "Support",
+    "emailCopyDescription": "Email address copied"
+  },
+  "authenticate": {
+    "signInTitle": "Sign In",
+    "signUpTitle": "Sign Up",
+    "signUpGoogle": "Sign up with Google",
+    "resetPasswordTitle": "Reset Password",
+    "updatePasswordTitle": "Update Password",
+    "email": "Email",
+    "password": "Password",
+    "forgetPassword": "Forgot password?",
+    "signIn": "Continue with Email",
+    "signInCode": "Continue with login code",
+    "resend": "Resend",
+    "resendIn": "Resend in {countdown}",
+    "loginCode": "Login code",
+    "magicLink": "via magic link",
+    "dontHaveAccount": "Don’t have an account yet?",
+    "signUp": "Sign up",
+    "withEmailAndPassword": "with email and password",
+    "sendEmail": "Send Email",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "updatePassword": "Update Password",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "index": {
+    "plan": {
+      "title": "Pay as you go",
+      "description": "Unlock a new version.",
+      "upgradeNormalTitle": "Insufficient  generate times",
+      "upgradeNormalDescription": "Add more times to your account, pay as you go",
+      "upgradeDownloadTitle": "Upgrade for Unlimited Downloads",
+      "upgradeDownloadDescription": "Add more times to your account, pay as you go",
+      "upgradePrivateTitle": "Upgrade for Private",
+      "upgradePrivateDescription": "Add more times to your account, pay as you go",
+      "plan1": {
+        "title": "Free",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "10 Generate times",
+        "text2": "free trial",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support"
+      },
+      "plan2": {
+        "title": "Premium",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "1000 Generate times",
+        "text2": "$0.01 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
+      },
+      "plan3": {
+        "title": "Basic",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "500 Generate times",
+        "text2": "$0.02 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
+      }
+    },
+    "bottomDescription": {
+      "title": "Make a song about anything",
+      "description": "Try nextjs-supabase-cloudflare now. No credit card required.",
+      "buttonText": "Make your songs"
+    }
+  },
+  "user": {},
+  "blog": {
+    "notFoundTitle": "Sorry we couldnt find any blog.",
+    "notFoundDescription": "But dont worry, you can find plenty of other things on our homepage or change the language.",
+    "notFoundButtonText": "Back to homepage"
+  },
+  "notFound": {
+    "title": "Something's missing.",
+    "description": "Sorry, we can't find that page. You'll find lots to explore on the home page.",
+    "buttonText": "Back to Homepage"
+  },
+  "footer": {
+    "title": "nextjs-supabase-cloudflare",
+    "company": "Company",
+    "about": "About",
+    "legal": "Legal",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
+  }
+}

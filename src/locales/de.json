@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "genresTitle": "Alle Genres | ai-music-generator.ai",
+    "exploreDescription": "Erkunden Sie KI-generierte Musik auf ai-music-generator.ai.",
+    "exploreTitle": "Erkunden Sie KI-Musik | ai-music-generator.ai",
+    "title": "Kostenloser AI-Musikgenerator - ai-music-generator.ai",
+    "blogTitle": "Blog",
+    "description": "ai-music-generator.ai - Online AI-Musikgenerator. Erstellen Sie einzigartige KI-Songs kostenlos. Tauchen Sie ein, laden Sie MP3 herunter und genießen Sie jetzt KI-Musik!",
+    "albumsTitle": "Beliebte Alben | ai-music-generator.ai",
+    "albumsDescription": "Suchen Sie etwas? Finden Sie Alben und mehr.",
+    "albumTitle": "{albumName} - Album von {userName} | ai-music-generator.ai",
+    "genresDescription": "Erkunden Sie KI-Musik nach Genres.",
+    "genreTitle": "{genreName} Musik | ai-music-generator.ai",
+    "genreDescription": "Entdecken Sie {genreSongNumber} {genreName} Musik auf ai-music-generator.ai.",
+    "userTitle": "{userName} | ai-music-generator.ai",
+    "pricingTitle": "Preisgestaltung | ai-music-generator.ai",
+    "songDescription": "Hören Sie {songName} auf nextjs-supabase-cloudflare. {userName} · Lied · 2024.",
+    "songTitle": "{songName} - Song und Texte von {userName} | ai-music-generator.ai",
+    "pricingDescription": "Zahlen Sie nach Bedarf und eröffnen Sie eine neue Ära der Musikschöpfung für alle.",
+    "albumDescription": "Hören Sie {albumName} auf nextjs-supabase-cloudflare. {userName} · Album · 2024 · {albumSongNumber} Lieder.",
+    "userDescription": "Höre {userName} auf nextjs-supabase-cloudflare. Schöpfer.",
+    "notFoundTitle": "Nicht gefunden | ai-music-generator.ai"
+  },
+  "navbar": {
+    "signOut": "Abmelden",
+    "blog": "Blog",
+    "home": "AI Musik Generator",
+    "signIn": "Anmelden",
+    "pricing": "Preisgestaltung",
+    "account": "Konto",
+    "albums": "Musikalben",
+    "explore": "Erkunden Sie KI-Musik",
+    "genres": "Musikgenres",
+    "profile": "Profil",
+    "emailCopyDescription": "E-Mail-Adresse kopiert",
+    "generateTimes": "Generiere Zeiten {points}",
+    "billing": "Abrechnung",
+    "support": "Unterstützung"
+  },
+  "authenticate": {
+    "signInTitle": "Anmelden",
+    "signUpTitle": "Registrieren",
+    "resetPasswordTitle": "Passwort zurücksetzen",
+    "signUpGoogle": "Registrieren Sie sich mit Google",
+    "forgetPassword": "Passwort vergessen?",
+    "updatePasswordTitle": "Passwort aktualisieren",
+    "password": "Passwort",
+    "email": "E-Mail",
+    "signIn": "Weiter mit E-Mail",
+    "resend": "Erneut senden",
+    "resendIn": "Erneut senden in {countdown}",
+    "loginCode": "Anmeldecode",
+    "signInCode": "Weiter mit Anmeldecode",
+    "magicLink": "über den magischen Link",
+    "dontHaveAccount": "Hast du noch kein Konto?",
+    "sendEmail": "Sende E-Mail",
+    "signUp": "Registrieren",
+    "withEmailAndPassword": "mit E-Mail und Passwort",
+    "newPassword": "Neues Passwort",
+    "confirmNewPassword": "Bestätigen Sie das neue Passwort",
+    "updatePassword": "Passwort aktualisieren",
+    "alreadyHaveAccount": "Hast du bereits ein Konto?"
+  },
+  "index": {
+    "highlight": {
+      "text1": "Lieder",
+      "text2": "erstellt",
+      "text5": "Wöchentlich",
+      "text4": "Schöpfer",
+      "text6": "Downloads",
+      "text3": "Professionell"
+    },
+    "description": "Aufbau einer Zukunft, in der jeder großartige Musik machen kann. Einfach Vorstellungskraft, von deinem Geist zur Musik.",
+    "title": "AI Musik Generator Kostenlos Online",
+    "form": {
+      "title": "Erzählen Sie mir von Ihrem neuen Lied ✍️",
+      "placeholder": "Ein emotionales Lied darüber, dich wiederzusehen und es kaum erwarten zu können.",
+      "requiredError": "Songbeschreibungen sind erforderlich.",
+      "buttonText": "✨Probieren Sie es aus!"
+    },
+    "creators": "Beliebte Musikschaffende",
+    "albums": "Beliebte KI-Musikalben",
+    "showAll": "Alle anzeigen",
+    "trending": "Trendende KI-Musik",
+    "faq": {
+      "question1": {
+        "title": "Was ist der nextjs-supabase-cloudflare?",
+        "content": "nextjs-supabase-cloudflare ist ein fortschrittlicher Musikgenerator, der hochwertige Kompositionen in verschiedenen Genres produziert. Seine neueste Version steht Studioaufnahmen in Audioqualität in nichts nach und bietet eine einzigartige und personalisierte Musikproduktion, die mit den kreativen Visionen der Benutzer übereinstimmt."
+      },
+      "question2": {
+        "title": "Ist der nextjs-supabase-cloudflare kostenlos zu verwenden?",
+        "content": "Ja, der nextjs-supabase-cloudflare bietet eine kostenlose Version mit grundlegenden Funktionen an. Für erweiterte Funktionalitäten und kommerzielle Nutzung kann ein Abonnement oder eine Zahlung erforderlich sein."
+      },
+      "title": "Häufig gestellte Fragen",
+      "question5": {
+        "content": "Der nextjs-supabase-cloudflare verwendet fortschrittliche Algorithmen und maschinelles Lernen, um Musikmuster, -stile und -strukturen zu analysieren.",
+        "title": "Wie generiert der nextjs-supabase-cloudflare Musik?",
+        "content2": "Es generiert dann originale Kompositionen, die auf den Benutzereingaben und Vorlieben zugeschnitten sind."
+      },
+      "question3": {
+        "title": "Kann ich Instrumente und Klänge im nextjs-supabase-cloudflare anpassen?",
+        "content": "Ja, Sie können Instrumente und Klänge in den Kompositionen des nextjs-supabase-cloudflare anpassen. Diese Funktion ermöglicht es Benutzern, gewünschte musikalische Effekte und Einzigartigkeit in ihren Kreationen zu erzielen."
+      },
+      "question4": {
+        "title": "Kann ich KI-generierte Musik für kommerzielle Zwecke verwenden?",
+        "content": "Ja, Sie können KI-generierte Musik für kommerzielle Zwecke verwenden. Es ist jedoch wichtig, die Nutzungsbedingungen von nextjs-supabase-cloudflare in Bezug auf die kommerzielle Nutzung, die Anforderungen an die Zuschreibung und eventuelle Lizenzgebühren für spezifische Anwendungsfälle zu überprüfen und einzuhalten."
+      },
+      "question8": {
+        "title": "Was ist die Rückerstattungsrichtlinie des nextjs-supabase-cloudflare?",
+        "content": "Leider können wir aufgrund der erheblichen Ressourcen, die für die KI-Verarbeitung erforderlich sind, keine Rückerstattungen anbieten."
+      },
+      "question6": {
+        "title": "Wie kann ich meine mit dem nextjs-supabase-cloudflare erstellte Musik teilen?",
+        "content": "Sie können Ihre mit dem nextjs-supabase-cloudflare erstellte Musik in der Regel direkt von der Plattform aus auf sozialen Medien, Musik-Streaming-Diensten oder persönlichen Websites teilen und dabei die Sharing-Funktionen und Vereinbarungen der Plattform nutzen."
+      },
+      "question7": {
+        "title": "Ist der Zahlungsdienst sicher?",
+        "content": "Natürlich, unser Zahlungsservice ist sicher. Wir vertrauen alle finanziellen Transaktionen Stripe an und speichern keine Ihrer Kartendaten. Stripe garantiert Sicherheitsstandards auf dem Niveau von Banken."
+      }
+    },
+    "genres": "Genres in AI-Musik",
+    "plan": {
+      "title": "Zahlen Sie nach Verbrauch",
+      "upgradeNormalTitle": "Unzureichende Generierungsvorgänge",
+      "upgradeDownloadTitle": "Upgrade für unbegrenzte Downloads",
+      "upgradeNormalDescription": "Fügen Sie Ihrem Konto mehr Zeiten hinzu, zahlen Sie nach Bedarf.",
+      "description": "Entsperren Sie eine neue Ära der Musikschöpfung für alle.",
+      "plan1": {
+        "buttonText": "Loslegen",
+        "description": "Einmalzahlung",
+        "title": "Kostenlos",
+        "text3": "Verlustfreie Audioqualität",
+        "text5": "Private Lieder",
+        "text4": "Unbegrenzte Downloads",
+        "text2": "Kostenlose Testversion",
+        "text6": "24×7 E-Mail-Support",
+        "text1": "10 Generierungszeiten"
+      },
+      "upgradePrivateDescription": "Fügen Sie Ihrem Konto mehr Zeiten hinzu, zahlen Sie nach Bedarf.",
+      "upgradeDownloadDescription": "Fügen Sie Ihrem Konto mehr Zeiten hinzu, zahlen Sie nach Bedarf.",
+      "upgradePrivateTitle": "Upgrade für private Lieder",
+      "plan2": {
+        "text1": "1000 Generierungsvorgänge",
+        "buttonText": "Loslegen",
+        "description": "Einmalzahlung",
+        "text2": "$0.01 pro Lied",
+        "text3": "Verlustfreie Audioqualität",
+        "title": "Beliebteste",
+        "text6": "24×7 E-Mail-Support",
+        "text7": "Verfügbar für 1 Jahr",
+        "text4": "Unbegrenzte Downloads",
+        "text5": "Private Lieder"
+      },
+      "plan3": {
+        "title": "Grundlegend",
+        "description": "Einmalige Zahlung",
+        "text4": "Unbegrenzte Downloads",
+        "text2": "$0,02 pro Lied",
+        "text1": "500 Generierungsvorgänge",
+        "buttonText": "Loslegen",
+        "text5": "Private Lieder",
+        "text3": "Verlustfreie Audioqualität",
+        "text6": "24×7 E-Mail-Support",
+        "text7": "Verfügbar für 1 Jahr"
+      }
+    },
+    "bottomDescription": {
+      "description": "Probieren Sie jetzt den nextjs-supabase-cloudflare aus. Keine Kreditkarte erforderlich.",
+      "buttonText": "Machen Sie Ihre Lieder",
+      "title": "Machen Sie ein Lied über alles"
+    }
+  },
+  "explore": {
+    "title": "Entdecken Sie KI-Musik",
+    "songTable": {
+      "album": "Album",
+      "title": "Titel",
+      "date": "Datum hinzugefügt"
+    },
+    "buttonText": "Machen Sie Ihre Lieder",
+    "description": "Über {songnumber} Lieder wurden erstellt"
+  },
+  "genres": {
+    "title": "Alle KI-Musikgenres",
+    "description": "Probieren Sie jetzt den nextjs-supabase-cloudflare aus. Keine Kreditkarte erforderlich.",
+    "buttonText": "Machen Sie Ihre Lieder"
+  },
+  "albums": {
+    "buttonText": "Machen Sie Ihre Lieder",
+    "title": "Beliebte KI-Musikalben",
+    "description": "Probieren Sie jetzt den nextjs-supabase-cloudflare aus. Keine Kreditkarte erforderlich."
+  },
+  "genre": {
+    "title": "{genrename} Musik",
+    "tab": {
+      "albums": "Alben",
+      "songs": "Lieder"
+    },
+    "buttonText": "Machen Sie Ihre Lieder",
+    "songTable": {
+      "album": "Album",
+      "title": "Titel",
+      "download": "Laden Sie MP3 herunter",
+      "date": "Datum hinzugefügt",
+      "copyLink": "Kopiere Song-Link",
+      "action": "Aktion",
+      "copyLinkToastDescription": "Song Link kopiert",
+      "rename": "Umbenennen",
+      "renameToastDescription": "Gespeichert",
+      "addToAlbum": "Zum Album hinzufügen",
+      "private": "Privat",
+      "changeAlbumModalTitle": "Zum Album hinzufügen",
+      "renameModalButtonText": "Bestätigen"
+    },
+    "description": "Über {songnumber} Lieder wurden erstellt"
+  },
+  "song": {
+    "title": "Lied",
+    "dropdown": {
+      "renameToastDescription": "Gespeichert",
+      "addToAlbum": "Zum Album hinzufügen",
+      "copyLinkToastDescription": "Song Link kopiert",
+      "copyLink": "Song-Link kopieren",
+      "rename": "Umbenennen",
+      "download": "Laden Sie MP3 herunter",
+      "private": "Privat",
+      "renameModalButtonText": "Bestätigen",
+      "changeAlbumModalTitle": "Zum Album hinzufügen",
+      "privateUpgradeButtonText": "Aktualisieren Sie Ihr Konto",
+      "privateUpgradeTitle": "Behalten Sie Ihre Musik privat",
+      "downloadUpgradeTitle": "Entsperren Sie unbegrenzte Musikdownloads.",
+      "editAlbum": "Album bearbeiten",
+      "uploadCover": "Hochladen des Covers",
+      "downloadUpgradeButtonText": "Jetzt aktualisieren",
+      "deleteError": "Es ist nicht möglich, Alben mit Liedern zu löschen.",
+      "save": "Speichern",
+      "deleted": "Gelöscht",
+      "userError": "Fehler beim Aktualisieren der Benutzerinformationen.",
+      "edit": "Bearbeiten",
+      "name": "Name",
+      "saved": "Gespeichert",
+      "albumTitleSchemaError": "Standard-Albumtitel existiert bereits",
+      "delete": "Löschen"
+    },
+    "recommended": "Empfohlen",
+    "relatedGenres": "Verwandte Genres",
+    "relatedAlbums": "Verwandte Alben"
+  },
+  "shareButton": {
+    "toastDescription": "Kopieren des Freigabelinks erfolgreich",
+    "buttonText": "Teilen"
+  },
+  "album": {
+    "title": "Album",
+    "albumSongTable": {
+      "date": "Datum hinzugefügt",
+      "action": "Aktion",
+      "remove": "Entfernen",
+      "title": "Titel",
+      "toastRemoved": "Entfernt",
+      "toastFailToRemoved": "Fehler beim Entfernen des Songs aus dem Album"
+    },
+    "moreByUserTitle": "Mehr von {username}",
+    "modal": {
+      "title": "Sind Sie sicher, dass Sie es aus diesem Album entfernen möchten?",
+      "cancelButton": "Nein, abbrechen",
+      "confirmButton": "Ja, ich bin sicher"
+    }
+  },
+  "user": {
+    "editUser": {
+      "saved": "Gespeichert",
+      "edit": "Bearbeiten",
+      "modalButtonText": "Speichern",
+      "modalTitle": "Profil bearbeiten",
+      "name": "Benutzername",
+      "uploadAvatar": "Hochladen des Avatars",
+      "userNameSchemaError": "Der Name darf nur Kleinbuchstaben (a-z), Zahlen (0-9) und Bindestriche (-) enthalten; er darf nicht mit einer Zahl beginnen.",
+      "userNameNeedEdit": "Benutzername nicht geändert",
+      "userNameExists": "Benutzername existiert bereits"
+    },
+    "tab": {
+      "create": "Erstellen",
+      "albums": "Alben",
+      "songs": "Lieder",
+      "createAlbum": "Erstelle Album",
+      "createMusic": "Erstelle Musik",
+      "genres": "Genres",
+      "name": "Name"
+    },
+    "songTable": {
+      "album": "Album",
+      "title": "Titel",
+      "date": "Datum hinzugefügt",
+      "action": "Aktion",
+      "renameToastDescription": "Gespeichert",
+      "download": "Laden Sie MP3 herunter",
+      "copyLinkToastDescription": "Song Link kopiert",
+      "addToAlbum": "Zum Album hinzufügen",
+      "rename": "Umbenennen",
+      "copyLink": "Kopiere Song-Link",
+      "changeAlbumModalTitle": "Zum Album hinzufügen",
+      "inProgress": "In Bearbeitung",
+      "delete": "Löschen",
+      "renameModalButtonText": "Bestätigen",
+      "private": "Privat",
+      "creating": "Erstellen",
+      "privateUpgradeTitle": "Behalte deine Musik privat.",
+      "privateUpgradeButtonText": "Aktualisieren Sie Ihr Konto",
+      "downloadUpgradeTitle": "Entsperren Sie unbegrenzte Musikdownloads",
+      "downloadUpgradeButtonText": "Jetzt aktualisieren"
+    }
+  },
+  "notFound": {
+    "description": "Entschuldigung, wir können diese Seite nicht finden. Auf der Startseite gibt es viel zu entdecken.",
+    "title": "Etwas fehlt.",
+    "buttonText": "Zurück zur Startseite"
+  },
+  "musicGenerateModal": {
+    "songGeneratingErrorTitle": "Hmm... Etwas ist schiefgelaufen.",
+    "songRequired": "Songbeschreibungen sind erforderlich.",
+    "songGeneratingDescription": "Sie können Ihre Lieder auf der Profilseite überprüfen.",
+    "pointsError": "Du hast nicht genug Punkte, um ein Lied zu generieren.",
+    "songGeneratingTitle": "Deine Lieder werden erstellt",
+    "songDescription": "Liedbeschreibung",
+    "titleRequired": "Titel ist erforderlich",
+    "lyricsRequired": "Text: Songtext ist erforderlich",
+    "autoMode": "Automatikmodus",
+    "genreRequired": "Genre ist erforderlich",
+    "songDescriptionPlaceholder": "Beschreiben Sie den Musikstil und das Thema, das Sie möchten (z. B. 'akustischer Pop über die Feiertage'). Verwenden Sie Genres und Stimmungen anstelle von bestimmten Künstlern und Liedern.",
+    "lyrics": "Songtexte",
+    "lyricsDescriptionPlaceholder": "Schreibe deine eigenen oder erhalte Hilfe von KI. Verwende zwei Strophen (8 Zeilen) für beste Ergebnisse.",
+    "tooltip": "Erstellen Sie ein Lied ohne Texte.",
+    "instrumental": "Instrumental",
+    "customMode": "Benutzerdefinierter Modus",
+    "createMusic": "Musik erstellen",
+    "genreDescriptionPlaceholder": "Beschreiben Sie den Musikstil, den Sie möchten (z. B. „akustischer Pop“). Erkennen Sie keine Künstlernamen, verstehen aber Genres und Stimmungen.",
+    "randomStyle": "Verwenden Sie den Zufallsstil",
+    "songTitleDescriptionPlaceholder": "Titel für das Teilen, Entdecken und Organisieren.",
+    "genreTitle": "Musikstil",
+    "songTitle": "Titel"
+  },
+  "footer": {
+    "title": "AI Musik Generator",
+    "legal": "Rechtliches",
+    "termsOfService": "Nutzungsbedingungen",
+    "company": "Unternehmen",
+    "privacyPolicy": "Datenschutz-Bestimmungen",
+    "contact": "Kontakt",
+    "about": "Über uns",
+    "contactUs": "Kontaktiere uns"
+  }
+}

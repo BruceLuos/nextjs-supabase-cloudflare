@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "blogTitle": "Bài viết",
+    "genresTitle": "Tất cả Thể loại | ai-music-generator.ai",
+    "title": "Trình tạo nhạc AI miễn phí - ai-music-generator.ai",
+    "exploreTitle": "Khám phá Âm nhạc AI | ai-music-generator.ai",
+    "description": "ai-music-generator.ai - Trình tạo nhạc AI trực tuyến. Tạo ra các bài hát AI độc đáo miễn phí. Tham gia ngay, tải xuống MP3 và thưởng thức âm nhạc AI ngay bây giờ!",
+    "exploreDescription": "Khám phá âm nhạc được tạo bởi trí tuệ nhân tạo trên ai-music-generator.ai.",
+    "albumTitle": "{albumName} - Album của {userName} | ai-music-generator.ai",
+    "genresDescription": "Khám phá âm nhạc AI theo thể loại.",
+    "genreTitle": "{genreName} Âm nhạc | ai-music-generator.ai",
+    "albumsDescription": "Tìm kiếm điều gì đó? Tìm album và nhiều hơn nữa.",
+    "albumsTitle": "Albums Phổ Biến | ai-music-generator.ai",
+    "genreDescription": "Khám phá {genreSongNumber} bài hát thể loại {genreName} trên ai-music-generator.ai",
+    "songTitle": "{songName} - bài hát và lời bởi {userName} | ai-music-generator.ai",
+    "pricingTitle": "Giá cả | ai-music-generator.ai",
+    "albumDescription": "Nghe {albumName} trên nextjs-supabase-cloudflare. {userName} · Album · 2024 · {albumSongNumber} bài hát.",
+    "songDescription": "Nghe {songName} trên nextjs-supabase-cloudflare. {userName} · Bài hát · 2024.",
+    "pricingDescription": "Trả tiền theo nhu cầu, mở khóa Một Thời Đại mới của Sáng Tạo Âm Nhạc cho Mọi Người.",
+    "userTitle": "{userName} | ai-music-generator.ai",
+    "userDescription": "Nghe {userName} trên nextjs-supabase-cloudflare. Người sáng tạo.",
+    "notFoundTitle": "không tìm thấy | ai-music-generator.ai"
+  },
+  "navbar": {
+    "blog": "Blog",
+    "home": "Trình tạo nhạc AI",
+    "signIn": "Đăng nhập",
+    "signOut": "Đăng Xuất",
+    "albums": "Albums âm nhạc",
+    "explore": "Khám phá AI Music",
+    "account": "Tài khoản",
+    "pricing": "Giá cả",
+    "genres": "Thể loại âm nhạc",
+    "profile": "Hồ sơ",
+    "generateTimes": "Tạo thời gian",
+    "emailCopyDescription": "Địa chỉ email đã được sao chép",
+    "billing": "Thanh toán",
+    "support": "Hỗ trợ"
+  },
+  "authenticate": {
+    "signInTitle": "Đăng nhập",
+    "signUpTitle": "Đăng ký",
+    "password": "Mật khẩu",
+    "updatePasswordTitle": "Cập Nhật Mật Khẩu",
+    "email": "Email",
+    "signUpGoogle": "Đăng ký bằng Google",
+    "forgetPassword": "Quên mật khẩu?",
+    "resetPasswordTitle": "Đặt lại mật khẩu",
+    "signIn": "Tiếp tục bằng Email",
+    "magicLink": "qua liên kết phép mà thuật",
+    "resend": "Gửi lại",
+    "signInCode": "Tiếp tục với mã đăng nhập",
+    "resendIn": "Gửi lại trong {đếm ngược}",
+    "loginCode": "Mã đăng nhập",
+    "signUp": "Đăng ký",
+    "sendEmail": "Gửi Email",
+    "confirmNewPassword": "Xác nhận Mật khẩu Mới",
+    "newPassword": "Mật khẩu mới",
+    "dontHaveAccount": "Bạn chưa có tài khoản?",
+    "withEmailAndPassword": "với email và mật khẩu",
+    "updatePassword": "Cập Nhật Mật Khẩu",
+    "alreadyHaveAccount": "Đã có tài khoản?"
+  },
+  "index": {
+    "title": "Trình tạo nhạc AI miễn phí trực tuyến",
+    "highlight": {
+      "text2": "Tạo ra",
+      "text1": "Bài hát",
+      "text6": "Tải xuống",
+      "text3": "Chuyên nghiệp",
+      "text5": "Hàng tuần",
+      "text4": "Nhà sáng tạo"
+    },
+    "description": "Xây dựng một tương lai nơi mà bất kỳ ai cũng có thể tạo ra âm nhạc tuyệt vời. Chỉ cần sự tưởng tượng, từ ý niệm của bạn đến âm nhạc.",
+    "form": {
+      "placeholder": "Một bài hát cảm động về việc không thể chờ đợi được gặp lại bạn",
+      "title": "Kể cho tôi nghe về bài hát mới của bạn ✍️",
+      "requiredError": "Mô tả bài hát là bắt buộc",
+      "buttonText": "✨Hãy thử ngay!"
+    },
+    "albums": "Albums âm nhạc AI phổ biến",
+    "trending": "Âm nhạc AI phổ biến",
+    "showAll": "Hiển thị tất cả",
+    "creators": "Người Tạo Âm Nhạc Phổ Biến",
+    "faq": {
+      "question1": {
+        "title": "Trình tạo nhạc AI là gì?",
+        "content": "nextjs-supabase-cloudflare là một trình tạo nhạc tiên tiến tạo ra các bản sáng tác chất lượng cao qua nhiều thể loại. Phiên bản mới nhất của nó không kém cạnh các sản phẩm phòng thu về chất lượng âm thanh, cung cấp việc tạo ra âm nhạc độc đáo và cá nhân hóa phù hợp với tầm nhìn sáng tạo của người dùng."
+      },
+      "question2": {
+        "title": "nextjs-supabase-cloudflare có miễn phí sử dụng không?",
+        "content": "Có, nextjs-supabase-cloudflare cung cấp phiên bản miễn phí với các tính năng cơ bản. Các chức năng tiên tiến và việc sử dụng thương mại có thể đòi hỏi đăng ký hoặc thanh toán."
+      },
+      "title": "Câu hỏi thường gặp",
+      "question5": {
+        "title": "Làm thế nào nextjs-supabase-cloudflare tạo ra âm nhạc?",
+        "content": "nextjs-supabase-cloudflare sử dụng các thuật toán tiên tiến và kỹ thuật học máy để phân tích các mẫu nhạc, phong cách và cấu trúc âm nhạc.",
+        "content2": "Sau đó, nó tạo ra các bản sáng tác gốc được điều chỉnh theo thông tin và sở thích của người dùng."
+      },
+      "question4": {
+        "title": "Tôi có thể sử dụng Âm nhạc được tạo bởi AI cho mục đích Thương mại không?",
+        "content": "Có, bạn có thể sử dụng âm nhạc được tạo bởi AI cho mục đích thương mại. Tuy nhiên, quan trọng là phải xem xét và tuân thủ các điều khoản sử dụng của nextjs-supabase-cloudflare liên quan đến việc sử dụng thương mại, yêu cầu ghi nguồn và bất kỳ khoản phí cấp phép nào có thể áp dụng cho các trường hợp sử dụng cụ thể."
+      },
+      "question3": {
+        "content": "Có, bạn có thể tùy chỉnh nhạc cụ và âm thanh trong các bản nhạc của nextjs-supabase-cloudflare. Tính năng này cho phép người dùng đạt được hiệu ứng âm nhạc mong muốn và tính độc đáo trong sáng tạo của họ.",
+        "title": "Tôi có thể tùy chỉnh các nhạc cụ và âm thanh trong Trình tạo nhạc AI không?"
+      },
+      "question8": {
+        "title": "Chính sách hoàn tiền của nextjs-supabase-cloudflare là gì?",
+        "content": "Thật đáng tiếc, do yêu cầu tài nguyên đáng kể cho xử lý AI, chúng tôi không thể hoàn trả."
+      },
+      "question6": {
+        "title": "Làm thế nào để chia sẻ bản nhạc của tôi được tạo ra bằng nextjs-supabase-cloudflare?",
+        "content": "Bạn thường có thể chia sẻ bản nhạc được tạo ra từ nextjs-supabase-cloudflare trực tiếp từ nền tảng này đến mạng xã hội, dịch vụ phát nhạc trực tuyến hoặc website cá nhân, tận dụng khả năng chia sẻ và các thỏa thuận của nền tảng."
+      },
+      "question7": {
+        "content": "Dịch văn bản gốc từ tiếng Anh sang Tiếng Việt mà không có kiểu dáng của máy dịch: \nTất nhiên, dịch vụ thanh toán của chúng tôi là an toàn. Chúng tôi ủy thác tất cả quá trình xử lý tài chính cho Stripe và không giữ lại bất kỳ chi tiết thẻ của bạn nào. Stripe đảm bảo các tiêu chuẩn an ninh ngang hàng với các ngân hàng.",
+        "title": "Dịch văn bản gốc từ tiếng Anh sang Tiếng Việt:\nDịch văn bản gốc từ tiếng Anh sang Tiếng Việt: Dịch văn bản gốc từ tiếng Anh sang Tiếng Việt: Dịch văn bản gốc từ tiếng Anh sang Tiếng Việt: \"Dịch văn bản gốc từ tiếng Anh sang Tiếng Việt: Dịch văn bản gốc từ tiê\" liệu thanh toán an toàn không?"
+      }
+    },
+    "genres": "Thể loại âm nhạc trong AI",
+    "plan": {
+      "title": "Thanh toán theo yêu cầu",
+      "upgradeNormalTitle": "Số lần tạo không đủ",
+      "description": "Mở ra một kỷ nguyên mới trong việc tạo ra âm nhạc cho mọi người.",
+      "upgradeNormalDescription": "Thêm số lần vào tài khoản của bạn, thanh toán theo nhu cầu",
+      "upgradeDownloadTitle": "Nâng cấp để Tải về Không Giới Hạn",
+      "plan1": {
+        "buttonText": "Bắt đầu",
+        "title": "Miễn phí",
+        "description": "Thanh toán một lần",
+        "text5": "Bài hát riêng",
+        "text6": "Hỗ trợ qua email 24×7",
+        "text1": "10 Lần tạo ra",
+        "text4": "Tải xuống không giới hạn",
+        "text2": "thử nghiệm miễn phí",
+        "text3": "Chất lượng âm thanh không mất chất lượng"
+      },
+      "upgradePrivateTitle": "Nâng cấp cho Bài hát Riêng tư",
+      "upgradePrivateDescription": "Thêm số lần vào tài khoản của bạn, thanh toán theo nhu cầu",
+      "upgradeDownloadDescription": "Thêm thời gian vào tài khoản của bạn, thanh toán theo nhu cầu",
+      "plan2": {
+        "description": "Thanh toán một lần",
+        "buttonText": "Bắt đầu",
+        "title": "Phổ biến nhất",
+        "text2": "$0.01 mỗi bài hát",
+        "text1": "1000 Lần tạo ra",
+        "text3": "Chất lượng âm thanh không mất mát",
+        "text6": "Hỗ trợ qua email 24×7",
+        "text4": "Tải xuống không giới hạn",
+        "text5": "Bài hát riêng",
+        "text7": "Có sẵn trong 1 năm"
+      },
+      "plan3": {
+        "title": "Cơ bản",
+        "description": "Thanh toán một lần",
+        "buttonText": "Bắt đầu",
+        "text5": "Bài hát riêng",
+        "text2": "$0.02 mỗi bài hát",
+        "text3": "Chất lượng âm thanh không mất chất lượng",
+        "text1": "500 Lần tạo ra",
+        "text4": "Tải về không giới hạn",
+        "text6": "Hỗ trợ qua email 24×7",
+        "text7": "Có sẵn trong 1 năm"
+      }
+    },
+    "bottomDescription": {
+      "description": "Hãy thử nextjs-supabase-cloudflare ngay bây giờ. Không cần thẻ tín dụng.",
+      "buttonText": "Tạo bài hát của bạn",
+      "title": "Tạo một bài hát về bất cứ điều gì"
+    }
+  },
+  "explore": {
+    "title": "Khám phá AI Music",
+    "songTable": {
+      "date": "Ngày thêm",
+      "title": "Tiêu đề",
+      "album": "Album"
+    },
+    "buttonText": "Tạo bài hát của bạn",
+    "description": "Đã tạo ra hơn {songnumber} bài hát"
+  },
+  "genres": {
+    "title": "Tất cả các Thể loại Âm nhạc AI",
+    "buttonText": "Tạo bài hát của bạn",
+    "description": "Hãy thử nextjs-supabase-cloudflare ngay bây giờ. Không cần thẻ tín dụng."
+  },
+  "genre": {
+    "title": "Âm nhạc {tênthểloại}",
+    "songTable": {
+      "album": "Album",
+      "title": "Tiêu đề",
+      "action": "Hành động",
+      "download": "Tải về MP3",
+      "rename": "Đổi tên",
+      "date": "Ngày thêm vào",
+      "copyLink": "Sao chép Liên kết Bài hát",
+      "copyLinkToastDescription": "Liên kết bài hát đã được sao chép",
+      "renameToastDescription": "Đã lưu",
+      "addToAlbum": "Thêm vào album",
+      "private": "Riêng tư",
+      "renameModalButtonText": "Xác nhận",
+      "changeAlbumModalTitle": "Thêm vào Album"
+    },
+    "tab": {
+      "songs": "Bài hát",
+      "albums": "Albums\n\nCác album"
+    },
+    "buttonText": "Tạo bài hát của bạn",
+    "description": "Đã tạo ra hơn {songnumber} bài hát"
+  },
+  "albums": {
+    "description": "Hãy thử nextjs-supabase-cloudflare ngay bây giờ. Không cần thẻ tín dụng.",
+    "title": "Albums âm nhạc AI phổ biến",
+    "buttonText": "Tạo bài hát của bạn"
+  },
+  "song": {
+    "title": "Bài hát",
+    "dropdown": {
+      "copyLink": "Sao chép liên kết bài hát",
+      "rename": "Đổi tên",
+      "download": "Tải về MP3",
+      "renameToastDescription": "Đã lưu",
+      "addToAlbum": "Thêm vào album",
+      "copyLinkToastDescription": "Liên kết bài hát đã được sao chép",
+      "renameModalButtonText": "Xác nhận",
+      "downloadUpgradeTitle": "Mở khóa tải về âm nhạc không giới hạn",
+      "changeAlbumModalTitle": "Thêm vào Album",
+      "privateUpgradeButtonText": "Nâng cấp Tài khoản của Bạn",
+      "private": "Riêng tư",
+      "privateUpgradeTitle": "Giữ âm nhạc của bạn riêng tư",
+      "deleteError": "Không thể xóa album có bài hát.",
+      "downloadUpgradeButtonText": "Nâng cấp ngay",
+      "save": "Lưu",
+      "deleted": "Đã xóa",
+      "editAlbum": "Chỉnh sửa Album",
+      "uploadCover": "Tải lên Bìa",
+      "delete": "Xóa",
+      "saved": "Đã lưu",
+      "userError": "Lỗi cập nhật thông tin người dùng.",
+      "name": "Tên",
+      "albumTitleSchemaError": "Tiêu đề Album mặc định đã tồn tại",
+      "edit": "Chỉnh sửa"
+    },
+    "relatedGenres": "Thể loại liên quan",
+    "relatedAlbums": "Albums Liên quan",
+    "recommended": "Đề xuất"
+  },
+  "album": {
+    "title": "Album",
+    "moreByUserTitle": "Thêm bởi {tên người dùng}",
+    "albumSongTable": {
+      "title": "Tiêu đề",
+      "date": "Ngày thêm vào",
+      "action": "Hành động",
+      "remove": "Xóa",
+      "toastRemoved": "Đã xóa",
+      "toastFailToRemoved": "Không thể xóa bài hát khỏi album"
+    },
+    "modal": {
+      "cancelButton": "Không, hủy",
+      "title": "Bạn có chắc chắn muốn xóa nó khỏi album này không?",
+      "confirmButton": "Có, tôi chắc chắn"
+    }
+  },
+  "shareButton": {
+    "toastDescription": "Sao chép Liên kết Chia sẻ Thành công",
+    "buttonText": "Chia sẻ"
+  },
+  "user": {
+    "editUser": {
+      "edit": "Chỉnh sửa",
+      "saved": "Đã lưu",
+      "modalTitle": "Chỉnh sửa Hồ Sơ",
+      "name": "Tên người dùng",
+      "uploadAvatar": "Tải lên Ảnh đại diện",
+      "userNameNeedEdit": "tên người dùng không thay đổi",
+      "modalButtonText": "Lưu",
+      "userNameSchemaError": "Tên chỉ có thể chứa các chữ thường (a-z), số (0-9) và dấu gạch ngang (-); không được bắt đầu bằng một con số.",
+      "userNameExists": "Tên người dùng đã tồn tại"
+    },
+    "tab": {
+      "albums": "Albums",
+      "create": "Tạo",
+      "createMusic": "Tạo Âm Nhạc",
+      "createAlbum": "Tạo Album",
+      "songs": "Bài hát",
+      "name": "Tên",
+      "genres": "Thể loại"
+    },
+    "songTable": {
+      "action": "Hành động",
+      "title": "Tiêu đề",
+      "date": "Ngày thêm",
+      "album": "Album",
+      "renameToastDescription": "Đã lưu",
+      "download": "Tải về MP3",
+      "copyLink": "Sao chép liên kết bài hát",
+      "copyLinkToastDescription": "Liên kết bài hát đã được sao chép",
+      "rename": "Đổi tên",
+      "addToAlbum": "Thêm vào album",
+      "inProgress": "Đang tiến hành",
+      "changeAlbumModalTitle": "Thêm vào Album",
+      "renameModalButtonText": "Xác nhận",
+      "delete": "Xóa",
+      "creating": "Tạo",
+      "private": "Riêng tư",
+      "downloadUpgradeButtonText": "Nâng cấp ngay",
+      "privateUpgradeButtonText": "Nâng cấp Tài khoản của Bạn",
+      "privateUpgradeTitle": "Giữ âm nhạc của bạn riêng tư",
+      "downloadUpgradeTitle": "Mở khóa tải về không giới hạn"
+    }
+  },
+  "notFound": {
+    "title": "Có điều gì đó thiếu.",
+    "description": "Xin lỗi, chúng tôi không thể tìm thấy trang đó. Bạn sẽ tìm thấy rất nhiều điều để khám phá trên trang chủ.",
+    "buttonText": "Quay lại Trang chủ"
+  },
+  "musicGenerateModal": {
+    "songGeneratingDescription": "Bạn có thể kiểm tra bài hát của mình trên trang hồ sơ",
+    "songGeneratingTitle": "Bài hát của bạn đang được tạo",
+    "songRequired": "Mô tả bài hát là bắt buộc",
+    "pointsError": "Bạn không có đủ điểm để tạo ra một bài hát.",
+    "songGeneratingErrorTitle": "Hmm... Có điều gì đó đã xảy ra.",
+    "autoMode": "Chế độ tự động",
+    "lyricsRequired": "Lời bài hát được yêu cầu",
+    "songDescription": "Mô tả Bài hát",
+    "titleRequired": "Tiêu đề là bắt buộc",
+    "genreRequired": "Thể loại là bắt buộc",
+    "songDescriptionPlaceholder": "Mô tả phong cách âm nhạc và chủ đề bạn muốn (ví dụ: 'pop hòa âm về ngày lễ'). Sử dụng thể loại và cảm xúc thay vì nghệ sĩ và bài hát cụ thể.",
+    "createMusic": "Tạo Âm Nhạc",
+    "tooltip": "Tạo một bài hát không có lời.",
+    "instrumental": "Nhạc không lời",
+    "lyrics": "Lời bài hát",
+    "customMode": "Chế độ tùy chỉnh",
+    "lyricsDescriptionPlaceholder": "Viết lời bài hát của bạn, hoặc nhận sự trợ giúp từ Trí tuệ Nhân tạo. Sử dụng hai câu (8 dòng) để có kết quả tốt nhất.",
+    "songTitleDescriptionPlaceholder": "tiêu đề để chia sẻ, khám phá và tổ chức.",
+    "genreTitle": "Kiểu nhạc",
+    "songTitle": "Tiêu đề",
+    "randomStyle": "Sử dụng Phong cách Ngẫu nhiên",
+    "genreDescriptionPlaceholder": "Mô tả phong cách âm nhạc bạn muốn (ví dụ, 'acoustic pop'). Không nhận diện tên của nghệ sĩ, nhưng hiểu về thể loại và cảm xúc."
+  },
+  "footer": {
+    "title": "Trình tạo nhạc AI",
+    "legal": "Pháp lý",
+    "about": "Về",
+    "termsOfService": "Điều khoản Dịch vụ",
+    "contact": "Liên hệ",
+    "privacyPolicy": "Chính sách bảo mật",
+    "company": "Công ty",
+    "contactUs": "Liên hệ"
+  }
+}

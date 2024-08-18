@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "title": "免费AI音乐生成器 - ai-music-generator.ai",
+    "description": "ai-music-generator.ai - 在线AI音乐生成器。免费创建独特的AI歌曲。立即开始，下载MP3，并享受AI音乐！",
+    "blogTitle": "博客",
+    "exploreTitle": "探索AI音乐 | ai-music-generator.ai",
+    "genresTitle": "所有流派 | ai-music-generator.ai",
+    "exploreDescription": "探索在ai-music-generator.ai上生成的AI音乐。",
+    "albumsDescription": "寻找什么？查找专辑和更多内容。",
+    "albumTitle": "{albumName} - {userName}的专辑 | ai-music-generator.ai",
+    "genreDescription": "在 ai-music-generator.ai 上发现 {genreName} 音乐 {genreSongNumber} 首",
+    "albumsTitle": "热门专辑 | ai-music-generator.ai",
+    "genresDescription": "探索各种类型的AI音乐。",
+    "genreTitle": "{genreName}音乐 | ai-music-generator.ai",
+    "albumDescription": "在AI音乐生成器上收听{albumName}。{userName} · 专辑 · 2024年 · {albumSongNumber}首歌曲。",
+    "pricingTitle": "定价 | ai-music-generator.ai",
+    "userTitle": "{userName} | ai-music-generator.ai",
+    "songDescription": "在AI音乐生成器上收听{songName}。{userName} · 歌曲 · 2024.",
+    "songTitle": "{songName} - {userName} 创作的歌曲和歌词 | ai-music-generator.ai",
+    "pricingDescription": "随用随付，为每个人解锁音乐创作的新时代。",
+    "notFoundTitle": "未找到 | ai-music-generator.ai",
+    "userDescription": "在AI音乐生成器上收听{userName}。创作者。"
+  },
+  "navbar": {
+    "signOut": "退出",
+    "blog": "博客",
+    "home": "AI音乐生成器",
+    "signIn": "登录",
+    "profile": "个人资料",
+    "explore": "探索AI音乐",
+    "albums": "音乐专辑",
+    "genres": "音乐流派",
+    "pricing": "定价",
+    "account": "账户",
+    "emailCopyDescription": "电子邮件地址已复制",
+    "generateTimes": "生成次数: {points}",
+    "billing": "计费",
+    "support": "支持"
+  },
+  "authenticate": {
+    "signUpTitle": "注册",
+    "signInTitle": "登录",
+    "resetPasswordTitle": "重置密码",
+    "signUpGoogle": "使用Google注册",
+    "updatePasswordTitle": "更新密码",
+    "forgetPassword": "忘记密码？",
+    "email": "电子邮件",
+    "password": "密码",
+    "resend": "重新发送",
+    "loginCode": "登录代码",
+    "signInCode": "继续使用登录代码",
+    "resendIn": "重新发送 {countdown}",
+    "magicLink": "通过魔术链接",
+    "signIn": "继续使用电子邮件",
+    "dontHaveAccount": "还没有账户吗？",
+    "withEmailAndPassword": "通过电子邮件和密码进行身份验证",
+    "newPassword": "新密码",
+    "confirmNewPassword": "确认新密码",
+    "signUp": "注册",
+    "sendEmail": "发送电子邮件",
+    "updatePassword": "更新密码",
+    "alreadyHaveAccount": "已经有账户了吗？"
+  },
+  "index": {
+    "highlight": {
+      "text1": "歌曲",
+      "text2": "AI音乐生成器",
+      "text4": "创作者",
+      "text3": "专业",
+      "text6": "下载",
+      "text5": "每周"
+    },
+    "title": "AI音乐生成器免费在线",
+    "description": "建立一个未来，任何人都可以创作出优秀音乐。只需想象，从你的头脑到音乐。",
+    "form": {
+      "placeholder": "一首关于迫不及待再次见到你的感情歌曲",
+      "title": "告诉我关于你的新歌曲✍️",
+      "requiredError": "歌曲描述是必填项",
+      "buttonText": "✨来试试吧！"
+    },
+    "creators": "热门音乐创作者",
+    "showAll": "展示全部",
+    "trending": "热门 AI 音乐",
+    "albums": "热门AI音乐专辑",
+    "genres": "AI音乐的流派",
+    "faq": {
+      "question2": {
+        "title": "AI音乐生成器免费使用吗？",
+        "content": "是的，AI音乐生成器提供具有基本功能的免费版本。高级功能和商业用途可能需要订阅或付费。"
+      },
+      "title": "常见问题",
+      "question1": {
+        "title": "什么是AI音乐生成器？",
+        "content": "AI音乐生成器是一款先进的音乐生成器，能够跨越各种流派产生高质量作品。其最新版本在音频质量上与录音室制作媲美，提供独特且个性化的音乐创作，符合用户创意愿景。"
+      },
+      "question4": {
+        "title": "我可以将AI生成的音乐用于商业目的吗？",
+        "content": "是的，您可以将AI生成的音乐用于商业目的。但是，重要的是要审查并遵守AI音乐生成器关于商业使用、归属要求以及可能适用于特定用例的任何许可费用条款。"
+      },
+      "question5": {
+        "content": "AI音乐生成器利用先进的算法和机器学习技术来分析音乐模式、风格和结构。",
+        "title": "AI音乐生成器是如何生成音乐的？",
+        "content2": "然后根据用户的输入和偏好生成定制的原创作品。"
+      },
+      "question3": {
+        "title": "我可以在AI音乐生成器中自定义乐器和声音吗？",
+        "content": "是的，您可以在AI音乐生成器作品中自定义乐器和声音。该功能允许用户实现所需的音乐效果，并使其创作具有独特性。"
+      },
+      "question6": {
+        "title": "我如何分享使用AI音乐生成器创建的音乐？",
+        "content": "通常，您可以直接从AI音乐生成器平台分享您创作的音乐到社交媒体、音乐流媒体服务或个人网站，利用平台的分享功能和协议。"
+      },
+      "question8": {
+        "title": "AI音乐生成器的退款政策是什么？",
+        "content": "很遗憾，由于AI处理需要大量资源，我们无法提供退款。"
+      },
+      "question7": {
+        "title": "支付服务安全吗？",
+        "content": "绝对安全，我们的支付服务是安全的。我们将所有财务处理委托给Stripe，并不保留您的任何卡片详细信息。Stripe保证了与银行相当的安全标准。"
+      }
+    },
+    "plan": {
+      "upgradeNormalDescription": "为您的账户增加更多次数，按需付费",
+      "upgradeDownloadTitle": "升级以获取无限下载",
+      "description": "为每个人打开音乐创作的新时代。",
+      "upgradeNormalTitle": "生成次数不足",
+      "title": "按使用量付费",
+      "plan1": {
+        "buttonText": "开始吧",
+        "description": "一次性付款",
+        "title": "免费",
+        "text5": "私人歌曲",
+        "text1": "生成次数",
+        "text3": "无损音频质量",
+        "text2": "免费试用",
+        "text4": "无限下载",
+        "text6": "24小时7天电子邮件支持"
+      },
+      "upgradePrivateTitle": "升级私人歌曲",
+      "upgradePrivateDescription": "为您的账户增加更多次数，按需付费",
+      "upgradeDownloadDescription": "为您的账户增加更多次数，按需付费",
+      "plan2": {
+        "title": "最受欢迎",
+        "buttonText": "开始使用",
+        "text1": "1000 生成次数",
+        "text3": "无损音频质量",
+        "description": "一次性付款",
+        "text2": "每首歌 $0.01",
+        "text4": "无限下载",
+        "text7": "可用于1年",
+        "text6": "24小时×7电子邮件支持",
+        "text5": "私人歌曲"
+      },
+      "plan3": {
+        "description": "一次性付款",
+        "title": "基本",
+        "buttonText": "开始使用",
+        "text2": "每首歌 $0.02",
+        "text5": "私人歌曲",
+        "text4": "无限下载",
+        "text1": "500次生成",
+        "text3": "无损音频质量",
+        "text7": "可用于1年",
+        "text6": "24小时7天电子邮件支持"
+      }
+    },
+    "bottomDescription": {
+      "buttonText": "创作您的歌曲",
+      "description": "立即尝试AI音乐生成器。无需信用卡。",
+      "title": "创作一首关于任何事物的歌曲"
+    }
+  },
+  "explore": {
+    "title": "探索AI音乐",
+    "songTable": {
+      "title": "标题",
+      "date": "添加日期",
+      "album": "专辑"
+    },
+    "description": "已创作超过{songnumber}首歌曲",
+    "buttonText": "创作您的歌曲"
+  },
+  "genres": {
+    "title": "所有AI音乐流派",
+    "buttonText": "创作您的歌曲",
+    "description": "立即尝试AI音乐生成器。无需信用卡。"
+  },
+  "albums": {
+    "description": "立即尝试AI音乐生成器。无需信用卡。",
+    "buttonText": "制作您的歌曲",
+    "title": "热门AI音乐专辑"
+  },
+  "genre": {
+    "title": "{genrename}音乐",
+    "tab": {
+      "songs": "歌曲",
+      "albums": "专辑"
+    },
+    "description": "已创作超过{songnumber}首歌曲",
+    "songTable": {
+      "title": "标题",
+      "album": "专辑",
+      "copyLinkToastDescription": "歌曲链接已复制",
+      "rename": "重命名",
+      "date": "添加日期",
+      "copyLink": "复制歌曲链接",
+      "download": "下载 MP3",
+      "action": "行动",
+      "addToAlbum": "添加到专辑",
+      "renameToastDescription": "已保存",
+      "renameModalButtonText": "确认",
+      "changeAlbumModalTitle": "添加到专辑",
+      "private": "私人"
+    },
+    "buttonText": "创作您的歌曲"
+  },
+  "song": {
+    "title": "歌曲",
+    "dropdown": {
+      "rename": "重命名",
+      "copyLink": "复制歌曲链接",
+      "renameToastDescription": "已保存",
+      "download": "下载 MP3",
+      "copyLinkToastDescription": "歌曲链接已复制",
+      "addToAlbum": "添加到专辑",
+      "privateUpgradeButtonText": "升级您的账户",
+      "downloadUpgradeTitle": "解锁无限音乐下载",
+      "private": "私人",
+      "privateUpgradeTitle": "保持您的音乐私密",
+      "changeAlbumModalTitle": "添加到专辑",
+      "renameModalButtonText": "确认",
+      "deleted": "已删除",
+      "deleteError": "无法删除带有歌曲的专辑。",
+      "uploadCover": "上传封面",
+      "save": "保存",
+      "downloadUpgradeButtonText": "立即升级",
+      "editAlbum": "编辑专辑",
+      "saved": "已保存",
+      "name": "名称",
+      "delete": "删除",
+      "edit": "编辑",
+      "albumTitleSchemaError": "默认专辑标题已存在",
+      "userError": "更新用户信息时出错。"
+    },
+    "recommended": "推荐",
+    "relatedAlbums": "相关专辑",
+    "relatedGenres": "相关流派"
+  },
+  "shareButton": {
+    "buttonText": "分享",
+    "toastDescription": "复制分享链接成功"
+  },
+  "album": {
+    "title": "专辑",
+    "albumSongTable": {
+      "title": "标题",
+      "remove": "删除",
+      "toastRemoved": "已移除",
+      "date": "添加日期",
+      "action": "行动",
+      "toastFailToRemoved": "无法从专辑中删除歌曲"
+    },
+    "moreByUserTitle": "更多来自{username}",
+    "modal": {
+      "cancelButton": "不，取消",
+      "title": "您确定要从此专辑中删除它吗？",
+      "confirmButton": "是的，我确定"
+    }
+  },
+  "user": {
+    "editUser": {
+      "edit": "编辑",
+      "saved": "已保存",
+      "modalTitle": "编辑个人资料",
+      "uploadAvatar": "上传头像",
+      "name": "用户名",
+      "modalButtonText": "保存",
+      "userNameNeedEdit": "用户名未更改",
+      "userNameSchemaError": "名称只能包含小写字母（a-z）、数字（0-9）和连字符（-）；不能以数字开头。",
+      "userNameExists": "用户名已存在"
+    },
+    "tab": {
+      "createAlbum": "创建专辑",
+      "create": "创建",
+      "albums": "专辑",
+      "songs": "歌曲",
+      "createMusic": "创作音乐",
+      "genres": "类型",
+      "name": "名称"
+    },
+    "songTable": {
+      "title": "标题",
+      "album": "专辑",
+      "action": "行动",
+      "date": "添加日期",
+      "download": "下载 MP3",
+      "rename": "重命名",
+      "addToAlbum": "添加到专辑",
+      "copyLink": "复制歌曲链接",
+      "copyLinkToastDescription": "歌曲链接已复制",
+      "renameToastDescription": "已保存",
+      "private": "私人",
+      "renameModalButtonText": "确认",
+      "creating": "创作",
+      "delete": "删除",
+      "inProgress": "进行中",
+      "changeAlbumModalTitle": "添加到专辑",
+      "downloadUpgradeButtonText": "立即升级",
+      "downloadUpgradeTitle": "解锁无限音乐下载",
+      "privateUpgradeButtonText": "升级您的账户",
+      "privateUpgradeTitle": "保持您的音乐私密"
+    }
+  },
+  "notFound": {
+    "title": "有些东西不见了。",
+    "description": "抱歉，我们找不到该页面。您可以在主页上找到很多内容进行探索。",
+    "buttonText": "返回首页"
+  },
+  "musicGenerateModal": {
+    "songRequired": "歌曲描述是必填项",
+    "songGeneratingDescription": "您可以在个人资料页面查看您的歌曲",
+    "pointsError": "您没有足够的点数来生成歌曲。",
+    "songGeneratingErrorTitle": "嗯...出了点问题。",
+    "songGeneratingTitle": "您的歌曲正在生成",
+    "autoMode": "自动模式",
+    "lyricsRequired": "需要歌词",
+    "songDescription": "歌曲描述",
+    "titleRequired": "标题是必需的",
+    "genreRequired": "音乐类型是必填项",
+    "songDescriptionPlaceholder": "描述您想要的音乐风格和主题（例如“假期关于原声流行”）。请使用音乐类型和氛围，而不是具体的艺术家和歌曲。",
+    "lyrics": "歌词",
+    "instrumental": "器乐",
+    "tooltip": "创建一首没有歌词的歌曲。",
+    "createMusic": "创作音乐",
+    "customMode": "自定义模式",
+    "lyricsDescriptionPlaceholder": "写下你自己的歌词，或者从AI那里得到一些帮助。使用两节（8行）以获得最佳效果。",
+    "songTitle": "标题",
+    "genreTitle": "音乐风格",
+    "randomStyle": "使用随机风格",
+    "songTitleDescriptionPlaceholder": "用于分享、发现和组织的标题。",
+    "genreDescriptionPlaceholder": "描述您想要的音乐风格（例如，“原声流行”）。不要识别艺术家的名字，但可以理解流派和氛围。"
+  },
+  "footer": {
+    "title": "AI音乐生成器",
+    "contact": "联系",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "company": "公司",
+    "legal": "AI音乐生成器",
+    "about": "关于",
+    "contactUs": "联系我们"
+  }
+}

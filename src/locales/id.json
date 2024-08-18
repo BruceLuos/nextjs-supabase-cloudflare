@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "exploreTitle": "Jelajahi Musik AI | ai-music-generator.ai",
+    "blogTitle": "Blog",
+    "description": "ai-music-generator.ai - Pembuat Musik AI online. Buat lagu AI unik secara gratis. Mulailah, unduh MP3, dan nikmati musik AI sekarang!",
+    "genresTitle": "Semua Genre | ai-music-generator.ai",
+    "exploreDescription": "Jelajahi musik yang dihasilkan oleh AI di ai-music-generator.ai.",
+    "title": "Pembuat Musik AI Gratis - ai-music-generator.ai",
+    "albumsTitle": "Album Populer | ai-music-generator.ai",
+    "genresDescription": "Jelajahi musik AI berdasarkan genre.",
+    "genreDescription": "Temukan {genreSongNumber} musik {genreName} di ai-music-generator.ai",
+    "albumsDescription": "Mencari sesuatu? Temukan album dan lainnya.",
+    "genreTitle": "Musik {genreName} | ai-music-generator.ai",
+    "albumTitle": "{albumName} - Album oleh {userName} | ai-music-generator.ai",
+    "pricingDescription": "Bayar sesuai penggunaan, buka Era Baru Kreasi Musik untuk Semua Orang.",
+    "songTitle": "{songName} - lagu dan lirik oleh {userName} | ai-music-generator.ai",
+    "albumDescription": "Dengarkan {albumName} di nextjs-supabase-cloudflare. {userName} · Album · 2024 · {albumSongNumber} lagu.",
+    "pricingTitle": "Harga | ai-music-generator.ai",
+    "userTitle": "{userName} | ai-music-generator.ai",
+    "songDescription": "Dengarkan {songName} di nextjs-supabase-cloudflare. {userName} · Lagu · 2024.",
+    "notFoundTitle": "tidak ditemukan | ai-music-generator.ai",
+    "userDescription": "Dengarkan {userName} di nextjs-supabase-cloudflare. Pencipta."
+  },
+  "navbar": {
+    "home": "Pembuat Musik AI",
+    "signOut": "Keluar",
+    "blog": "Blog",
+    "signIn": "Masuk",
+    "account": "Akun",
+    "profile": "Profil",
+    "genres": "Genre Musik",
+    "pricing": "Harga",
+    "albums": "Album Musik",
+    "explore": "Jelajahi Musik AI",
+    "emailCopyDescription": "Alamat email disalin",
+    "generateTimes": "{points} Menghasilkan waktu",
+    "billing": "Penagihan",
+    "support": "Dukungan"
+  },
+  "authenticate": {
+    "signInTitle": "Masuk",
+    "signUpTitle": "Daftar",
+    "password": "Kata Sandi",
+    "resetPasswordTitle": "Atur Ulang Kata Sandi",
+    "updatePasswordTitle": "Perbarui Kata Sandi",
+    "forgetPassword": "Lupa kata sandi?",
+    "signUpGoogle": "Daftar dengan Google",
+    "email": "Email",
+    "signIn": "Lanjutkan dengan Email",
+    "resend": "Kirim Ulang",
+    "magicLink": "melalui tautan ajaib",
+    "loginCode": "Kode masuk",
+    "signInCode": "Lanjutkan dengan kode masuk",
+    "resendIn": "Kirim ulang dalam {countdown}",
+    "withEmailAndPassword": "dengan email dan kata sandi",
+    "confirmNewPassword": "Konfirmasi Kata Sandi Baru",
+    "sendEmail": "Kirim Email",
+    "signUp": "Daftar",
+    "newPassword": "Kata Sandi Baru",
+    "dontHaveAccount": "Belum memiliki akun?",
+    "alreadyHaveAccount": "Sudah memiliki akun?",
+    "updatePassword": "Perbarui Kata Sandi"
+  },
+  "index": {
+    "highlight": {
+      "text2": "Dibuat",
+      "text1": "Lagu",
+      "text3": "Profesional",
+      "text4": "Pencipta",
+      "text5": "Mingguan",
+      "text6": "Unduh"
+    },
+    "title": "Pembuat Musik AI Gratis Online",
+    "description": "Membangun masa depan di mana siapa pun dapat membuat musik hebat. Hanya imajinasi, dari pikiran Anda menjadi musik.",
+    "form": {
+      "placeholder": "Sebuah lagu yang penuh emosi tentang tidak sabar untuk bertemu denganmu lagi",
+      "title": "Ceritakan lagu baru Anda ✍️",
+      "requiredError": "Deskripsi lagu diperlukan",
+      "buttonText": "✨Coba sekarang!"
+    },
+    "creators": "Pencipta Musik Populer",
+    "showAll": "Tampilkan semua",
+    "albums": "Album Musik AI Populer",
+    "trending": "Musik AI yang Sedang Populer",
+    "faq": {
+      "question2": {
+        "title": "Apakah nextjs-supabase-cloudflare Gratis untuk Digunakan?",
+        "content": "Ya, nextjs-supabase-cloudflare menawarkan versi gratis dengan fitur dasar. Fungsionalitas lanjutan dan penggunaan komersial mungkin memerlukan langganan atau pembayaran."
+      },
+      "question1": {
+        "title": "Apa itu Pembuat Musik AI?",
+        "content": "nextjs-supabase-cloudflare adalah generator musik canggih yang menghasilkan komposisi berkualitas tinggi di berbagai genre. Versi terbarunya menyaingi produksi studio dalam kualitas audio, menawarkan penciptaan musik unik dan personal sesuai dengan visi kreatif pengguna."
+      },
+      "title": "Pertanyaan yang Sering Diajukan",
+      "question4": {
+        "title": "Dapatkah Saya Menggunakan Musik yang Dihasilkan oleh AI untuk Keperluan Komersial?",
+        "content": "Ya, Anda dapat menggunakan musik yang dihasilkan oleh AI untuk tujuan komersial. Namun, penting untuk meninjau dan mematuhi syarat penggunaan nextjs-supabase-cloudflare terkait penggunaan komersial, persyaratan atribusi, dan biaya lisensi apa pun yang mungkin berlaku untuk kasus penggunaan tertentu."
+      },
+      "question5": {
+        "title": "Bagaimana nextjs-supabase-cloudflare Menghasilkan Musik?",
+        "content": "nextjs-supabase-cloudflare menggunakan algoritma canggih dan teknik pembelajaran mesin untuk menganalisis pola, gaya, dan struktur musik.",
+        "content2": "Kemudian menghasilkan komposisi asli yang disesuaikan dengan masukan dan preferensi pengguna."
+      },
+      "question3": {
+        "title": "Dapatkah Saya Menyesuaikan Instrumen dan Suara di Pembuat Musik AI?",
+        "content": "Ya, Anda dapat menyesuaikan instrumen dan suara dalam komposisi nextjs-supabase-cloudflare. Fitur ini memungkinkan pengguna untuk mencapai efek musik yang diinginkan dan keunikan dalam kreasi mereka."
+      },
+      "question7": {
+        "title": "Apakah layanan pembayaran aman?",
+        "content": "Tentu saja, layanan pembayaran kami aman. Kami mempercayakan semua pemrosesan keuangan kepada Stripe dan tidak menyimpan rincian kartu Anda. Stripe menjamin standar keamanan sebanding dengan bank-bank."
+      },
+      "question6": {
+        "title": "Bagaimana cara saya membagikan musik yang dibuat dengan nextjs-supabase-cloudflare?",
+        "content": "Anda biasanya dapat berbagi musik yang dibuat dengan nextjs-supabase-cloudflare langsung dari platform ke media sosial, layanan streaming musik, atau situs web pribadi, memanfaatkan kemampuan dan perjanjian berbagi platform."
+      },
+      "question8": {
+        "title": "Apa kebijakan pengembalian dana nextjs-supabase-cloudflare?",
+        "content": "Sayangnya, karena sumber daya yang signifikan diperlukan untuk pemrosesan AI, kami tidak dapat menawarkan pengembalian dana."
+      }
+    },
+    "genres": "Genre dalam Musik AI",
+    "plan": {
+      "upgradeNormalDescription": "Tambahkan lebih banyak waktu ke akun Anda, bayar sesuai penggunaan",
+      "upgradeNormalTitle": "Kali generate tidak mencukupi",
+      "title": "Bayar sesuai kebutuhan",
+      "upgradeDownloadTitle": "Upgrade untuk Unduhan Tanpa Batas",
+      "description": "Buka Era Baru Kreasi Musik untuk Semua Orang.",
+      "plan1": {
+        "title": "Gratis",
+        "buttonText": "Mulai",
+        "description": "Pembayaran Sekali Bayar",
+        "text6": "Dukungan email 24×7",
+        "text1": "10 Kali Generate",
+        "text5": "Lagu-lagu pribadi",
+        "text4": "Unduh tanpa batas",
+        "text2": "percobaan gratis",
+        "text3": "Kualitas audio tanpa kehilangan"
+      },
+      "upgradeDownloadDescription": "Tambahkan lebih banyak waktu ke akun Anda, bayar sesuai penggunaan",
+      "upgradePrivateDescription": "Tambahkan lebih banyak waktu ke akun Anda, bayar sesuai penggunaan",
+      "upgradePrivateTitle": "Tingkatkan untuk Lagu-lagu Pribadi",
+      "plan2": {
+        "title": "Paling populer",
+        "text2": "$0.01 per lagu",
+        "text1": "1000 Kali Generate",
+        "text3": "Kualitas audio tanpa kehilangan",
+        "description": "Pembayaran Sekali Bayar",
+        "buttonText": "Mulai",
+        "text5": "Lagu-lagu pribadi",
+        "text7": "Tersedia selama 1 tahun",
+        "text4": "Unduh tanpa batas",
+        "text6": "Dukungan email 24×7"
+      },
+      "plan3": {
+        "title": "Dasar",
+        "description": "Pembayaran Sekali Bayar",
+        "buttonText": "Mulai",
+        "text4": "Unduh tanpa batas",
+        "text2": "$0.02 per lagu",
+        "text5": "Lagu-lagu pribadi",
+        "text3": "Kualitas audio tanpa kehilangan",
+        "text1": "500 Kali Pembuatan",
+        "text7": "Tersedia selama 1 tahun",
+        "text6": "Dukungan email 24×7"
+      }
+    },
+    "bottomDescription": {
+      "description": "Coba nextjs-supabase-cloudflare sekarang. Tidak diperlukan kartu kredit.",
+      "title": "Buatlah lagu tentang apapun",
+      "buttonText": "Buat lagu-lagu Anda"
+    }
+  },
+  "explore": {
+    "title": "Temukan Musik AI",
+    "songTable": {
+      "title": "Judul",
+      "album": "Album",
+      "date": "Tanggal ditambahkan"
+    },
+    "description": "Lebih dari {songnumber} lagu telah dibuat",
+    "buttonText": "Buat lagu-lagu Anda"
+  },
+  "genres": {
+    "title": "Semua Genre Musik AI",
+    "description": "Coba nextjs-supabase-cloudflare sekarang. Tidak memerlukan kartu kredit.",
+    "buttonText": "Buat lagu-lagu Anda"
+  },
+  "albums": {
+    "title": "Album Musik AI Populer",
+    "buttonText": "Buat lagu-lagu Anda",
+    "description": "Coba nextjs-supabase-cloudflare sekarang. Tidak diperlukan kartu kredit."
+  },
+  "genre": {
+    "title": "Musik {genrename}",
+    "description": "Lebih dari {songnumber} lagu telah dibuat",
+    "tab": {
+      "albums": "Albums",
+      "songs": "Lagu"
+    },
+    "songTable": {
+      "title": "Judul",
+      "album": "Album",
+      "date": "Tanggal ditambahkan",
+      "download": "Unduh MP3",
+      "action": "Tindakan",
+      "rename": "Ubah Nama",
+      "copyLink": "Salin Tautan Lagu",
+      "copyLinkToastDescription": "Tautan Lagu disalin",
+      "addToAlbum": "Tambahkan ke album",
+      "changeAlbumModalTitle": "Tambahkan ke Album",
+      "private": "Pribadi",
+      "renameToastDescription": "Disimpan",
+      "renameModalButtonText": "Konfirmasi"
+    },
+    "buttonText": "Buat lagu-lagu Anda"
+  },
+  "song": {
+    "title": "Lagu",
+    "dropdown": {
+      "rename": "Ubah Nama",
+      "copyLink": "Salin Tautan Lagu",
+      "copyLinkToastDescription": "Tautan lagu disalin",
+      "addToAlbum": "Tambahkan ke album",
+      "download": "Unduh MP3",
+      "renameToastDescription": "Disimpan",
+      "downloadUpgradeTitle": "Buka kunci unduhan musik tanpa batas",
+      "private": "Pribadi",
+      "privateUpgradeTitle": "Simpan musik Anda secara pribadi",
+      "changeAlbumModalTitle": "Tambahkan ke Album",
+      "renameModalButtonText": "Konfirmasi",
+      "privateUpgradeButtonText": "Tingkatkan Akun Anda",
+      "save": "Simpan",
+      "editAlbum": "Edit Album",
+      "deleted": "Dihapus",
+      "downloadUpgradeButtonText": "Upgrade Sekarang",
+      "deleteError": "Tidak dapat menghapus album dengan lagu.",
+      "uploadCover": "Unggah Sampul",
+      "edit": "Edit",
+      "userError": "Kesalahan saat memperbarui informasi pengguna.",
+      "saved": "Disimpan",
+      "delete": "Hapus",
+      "albumTitleSchemaError": "Judul Album Default sudah ada",
+      "name": "Nama"
+    },
+    "relatedAlbums": "Album Terkait",
+    "relatedGenres": "Genre Terkait",
+    "recommended": "Direkomendasikan"
+  },
+  "album": {
+    "title": "Album",
+    "moreByUserTitle": "Lebih dari {username}",
+    "albumSongTable": {
+      "toastRemoved": "Dihapus",
+      "remove": "Hapus",
+      "date": "Tanggal ditambahkan",
+      "action": "Tindakan",
+      "title": "Judul",
+      "toastFailToRemoved": "Gagal menghapus lagu dari album"
+    },
+    "modal": {
+      "confirmButton": "Ya, saya yakin",
+      "cancelButton": "Tidak, batalkan",
+      "title": "Apakah Anda yakin ingin menghapusnya dari album ini?"
+    }
+  },
+  "shareButton": {
+    "buttonText": "Bagikan",
+    "toastDescription": "Salin Tautan Berhasil"
+  },
+  "user": {
+    "editUser": {
+      "saved": "Disimpan",
+      "edit": "Mengedit",
+      "userNameNeedEdit": "nama pengguna tidak berubah",
+      "name": "Nama Pengguna",
+      "uploadAvatar": "Unggah Avatar",
+      "modalButtonText": "Simpan",
+      "modalTitle": "Edit Profil",
+      "userNameSchemaError": "Nama hanya boleh mengandung huruf kecil (a-z), angka (0-9), dan tanda hubung (-); tidak boleh diawali dengan angka.",
+      "userNameExists": "nama pengguna sudah ada"
+    },
+    "tab": {
+      "create": "Buat",
+      "createMusic": "Buat Musik",
+      "songs": "Lagu",
+      "createAlbum": "Buat Album",
+      "albums": "Albums",
+      "name": "Nama",
+      "genres": "Genre"
+    },
+    "songTable": {
+      "date": "Tanggal ditambahkan",
+      "action": "Tindakan",
+      "title": "Judul",
+      "album": "Album",
+      "download": "Unduh MP3",
+      "copyLinkToastDescription": "Tautan Lagu disalin",
+      "renameToastDescription": "Disimpan",
+      "rename": "Ubah Nama",
+      "addToAlbum": "Tambahkan ke album",
+      "copyLink": "Salin Tautan Lagu",
+      "private": "Pribadi",
+      "renameModalButtonText": "Konfirmasi",
+      "creating": "Membuat",
+      "inProgress": "Sedang berlangsung",
+      "changeAlbumModalTitle": "Tambahkan ke Album",
+      "delete": "Hapus",
+      "downloadUpgradeButtonText": "Tingkatkan Sekarang",
+      "downloadUpgradeTitle": "Buka kunci unduhan musik tanpa batas",
+      "privateUpgradeTitle": "Jaga musik Anda tetap pribadi",
+      "privateUpgradeButtonText": "Tingkatkan Akun Anda"
+    }
+  },
+  "notFound": {
+    "description": "Maaf, kami tidak dapat menemukan halaman tersebut. Anda akan menemukan banyak hal untuk dieksplorasi di halaman utama.",
+    "title": "Ada yang hilang.",
+    "buttonText": "Kembali ke Beranda"
+  },
+  "musicGenerateModal": {
+    "songRequired": "Deskripsi lagu diperlukan",
+    "pointsError": "Anda tidak memiliki cukup poin untuk menghasilkan lagu.",
+    "songGeneratingErrorTitle": "Hmm... Ada yang tidak beres.",
+    "songGeneratingDescription": "Anda dapat memeriksa lagu Anda di halaman profil",
+    "songGeneratingTitle": "Lagu Anda sedang dibuat",
+    "genreRequired": "Genre diperlukan",
+    "lyricsRequired": "Lirik diperlukan",
+    "titleRequired": "Judul diperlukan",
+    "songDescription": "Deskripsi Lagu",
+    "autoMode": "Mode otomatis",
+    "songDescriptionPlaceholder": "Deskripsikan gaya musik dan topik yang Anda inginkan (misalnya 'pop akustik tentang liburan'). Gunakan genre dan suasana daripada artis dan lagu spesifik.",
+    "lyrics": "Lirik",
+    "tooltip": "Buatlah sebuah lagu tanpa lirik.",
+    "customMode": "Mode kustom",
+    "instrumental": "Instrumen",
+    "createMusic": "Buat Musik",
+    "lyricsDescriptionPlaceholder": "Tulislah sendiri, atau dapatkan bantuan dari AI. Gunakan dua bait (8 baris) untuk hasil terbaik.",
+    "randomStyle": "Gunakan Gaya Acak",
+    "genreTitle": "Gaya Musik",
+    "songTitle": "Judul",
+    "songTitleDescriptionPlaceholder": "judul untuk berbagi, menemukan, dan mengatur.",
+    "genreDescriptionPlaceholder": "Deskripsikan gaya musik yang Anda inginkan (misalnya, 'pop akustik'). Tidak mengenali nama-nama artis, tetapi memahami genre dan suasana."
+  },
+  "footer": {
+    "title": "Pembuat Musik AI",
+    "company": "Perusahaan",
+    "termsOfService": "Syarat Layanan",
+    "privacyPolicy": "Kebijakan Privasi",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "legal": "Hukum",
+    "contactUs": "Hubungi Kami"
+  }
+}
