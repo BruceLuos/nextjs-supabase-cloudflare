@@ -92,15 +92,13 @@ export default async function ProfilePage({ params, searchParams }: Props) {
           <div className="max-w-[230px] w-full flex-none md:flex-1 mb-0 md:mb-[23px] order-1 md:order-none">
             <img
               className="aspect-square object-cover w-full rounded-full "
-              src={userData.avatar_url}
+              src={userData.avatar_url || ""}
               alt="avatar"
             />
           </div>
           <div className="md:ml-8 flex gap-[18px] flex-col flex-none md:flex-1 relative order-3 md:order-none">
             <div className="self-end flex flex-1 justify-end md:absolute md:right-0 md:top-[-9px] gap-5">
-              {isAuthUser && (
-               userData.name
-              )}
+              {isAuthUser && userData.username}
             </div>
           </div>
         </div>
