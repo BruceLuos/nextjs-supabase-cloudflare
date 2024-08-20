@@ -1,5 +1,4 @@
 import Stripe from "stripe";
-import { stripe } from "@/utils/stripe/config";
 import {
   manageUserPointsChange,
   manageUserOrderChange,
@@ -18,21 +17,9 @@ const relevantEvents = new Set([
 
 export async function POST(req: Request) {
   const { stripe } = require("@/utils/stripe/config");
-  // const stripe = new Stripe(
-  //   process.env.STRIPE_SECRET_KEY_LIVE ?? process.env.STRIPE_SECRET_KEY ?? "",
-  //   {
-  //     httpClient: Stripe.createFetchHttpClient(),
-  //     apiVersion: "2024-04-10",
-  //   }
-  // );
-  // const body = Buffer.from(await req.arrayBuffer());
   const body = await req.text();
-  console.log("body:", body);
   const sig = headers().get("stripe-signature") as string;
-  // const sig = req.headers.get("stripe-signature") as string;
-  console.log("sig", sig);
   const webhookSecret = process.env.STRIPE_WEBHOOK_SECRET;
-  console.log("webhookSecret", webhookSecret);
 
   try {
     if (!sig || !webhookSecret)

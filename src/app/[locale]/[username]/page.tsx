@@ -97,7 +97,7 @@ export default async function ProfilePage({ params, searchParams }: Props) {
             />
           </div>
           <div className="md:ml-8 flex gap-[18px] flex-col flex-none md:flex-1 relative order-3 md:order-none">
-            <div className="self-end flex flex-1 justify-end md:absolute md:right-0 md:top-[-9px] gap-5">
+            <div className="self-end flex flex-1 justify-end md:absolute md:right-0 md:top-[-9px] gap-5 text-white">
               {isAuthUser && userData.username}
             </div>
           </div>
