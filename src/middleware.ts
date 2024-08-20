@@ -10,6 +10,7 @@ export default async function middleware(req: NextRequest) {
     locales,
     localePrefix,
     defaultLocale: defaultLocale,
+    localeDetection: false, // close locale detection
   });
   const res = handleI18nRouting(req);
 
