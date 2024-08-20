@@ -39,11 +39,6 @@ export default function FooterBase({ navLink, locale }: FooterBaseProps) {
             Privacy Policy
           </Footer.Link>
         </Footer.LinkGroup>
-        {/* <Footer.Copyright
-          by="ai-music-generator™. All Rights Reserved."
-          href="https://flowbite.com"
-          year={2024}
-        /> */}
       </div>
     </Footer>
   );

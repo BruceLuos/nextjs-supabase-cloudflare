@@ -1,353 +1,121 @@
 {
   "metadata": {
-    "blogTitle": "블로그",
-    "title": "무료 AI 음악 생성기 - ai-music-generator.ai",
-    "exploreDescription": "ai-music-generator.ai에서 AI 생성 음악을 탐색해보세요.",
-    "genresTitle": "모든 장르 | ai-music-generator.ai",
-    "exploreTitle": "AI 음악 탐색 | ai-music-generator.ai",
-    "description": "ai-music-generator.ai - 온라인 AI 음악 생성기. 독특한 AI 노래를 무료로 만들어보세요. 참여하여 MP3를 다운로드하고 지금 AI 음악을 즐기세요!",
-    "albumTitle": "{albumName} - {userName}의 앨범 | ai-music-generator.ai",
-    "genreDescription": "ai-music-generator.ai에서 {genreName} 음악 {genreSongNumber}곡을 발견하세요.",
-    "albumsTitle": "인기 앨범 | ai-music-generator.ai",
-    "genresDescription": "장르별 AI 음악을 탐색해보세요.",
-    "genreTitle": "{genreName} 음악 | ai-music-generator.ai",
-    "albumsDescription": "앨범 및 더 많은 것을 찾고 계신가요?",
-    "songDescription": "Startkit에서 {userName}의 {songName}을(를) 들어보세요. · 노래 · 2024.",
-    "pricingDescription": "모두를 위한 음악 창작의 새로운 시대를 열 수 있는 요금제입니다.",
-    "userTitle": "{userName} | ai-music-generator.ai",
-    "songTitle": "{songName} - {userName}이 작사 및 작곡한 노래 | ai-music-generator.ai",
-    "pricingTitle": "가격 책정 | ai-music-generator.ai",
-    "albumDescription": "Startkit에서 {albumName}을(를) 듣기. {userName} · 앨범 · 2024년 · {albumSongNumber} 곡.",
-    "userDescription": "Startkit에서 {userName}의 음악을 들어보세요. 크리에이터들.",
-    "notFoundTitle": "찾을 수 없음 | ai-music-generator.ai"
+    "title": "Next.js Supabase Cloudflare",
+    "description": "Next.js Application with supabase and cloudflare deploy",
+    "blogTitle": "Blog",
+    "pricingTitle": "Pricing",
+    "pricingDescription": "Pay as you go",
+    "userTitle": "{userName}",
+    "userDescription": "{userName} on nextjs-supabase-cloudflare.",
+    "notFoundTitle": "not found"
   },
   "navbar": {
-    "home": "AI 음악 생성기",
-    "blog": "블로그",
-    "signOut": "로그아웃",
-    "signIn": "로그인",
-    "explore": "AI 음악 탐색",
-    "account": "계정",
-    "albums": "음악 앨범",
-    "genres": "음악 장르",
-    "profile": "프로필",
-    "pricing": "가격 설정",
-    "support": "지원",
-    "billing": "청구",
-    "emailCopyDescription": "이메일 주소가 복사되었습니다.",
-    "generateTimes": "{포인트} 생성 시간"
+    "home": "Home",
+    "blog": "Blog",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "pricing": "Pricing",
+    "profile": "Profile",
+    "generateTimes": "{points} Generate times",
+    "billing": "Billing",
+    "support": "Support",
+    "emailCopyDescription": "Email address copied"
   },
   "authenticate": {
-    "signInTitle": "로그인",
-    "signUpTitle": "가입",
-    "updatePasswordTitle": "비밀번호 업데이트",
-    "password": "비밀번호",
-    "email": "이메일",
-    "forgetPassword": "비밀번호를 잊으셨나요?",
-    "signUpGoogle": "Google로 가입",
-    "resetPasswordTitle": "비밀번호 재설정",
-    "magicLink": "매직 링크를 통해",
-    "resendIn": "{countdown} 후에 다시 보내기",
-    "loginCode": "로그인 코드",
-    "resend": "재전송",
-    "signIn": "이메일로 계속하기",
-    "signInCode": "로그인 코드로 계속하기",
-    "withEmailAndPassword": "이메일과 비밀번호로 인증",
-    "signUp": "가입",
-    "dontHaveAccount": "아직 계정이 없으신가요?",
-    "sendEmail": "이메일 보내기",
-    "confirmNewPassword": "새 비밀번호 확인",
-    "newPassword": "새 비밀번호",
-    "alreadyHaveAccount": "계정이 이미 있습니까?",
-    "updatePassword": "비밀번호 업데이트"
+    "signInTitle": "Sign In",
+    "signUpTitle": "Sign Up",
+    "signUpGoogle": "Sign up with Google",
+    "resetPasswordTitle": "Reset Password",
+    "updatePasswordTitle": "Update Password",
+    "email": "Email",
+    "password": "Password",
+    "forgetPassword": "Forgot password?",
+    "signIn": "Continue with Email",
+    "signInCode": "Continue with login code",
+    "resend": "Resend",
+    "resendIn": "Resend in {countdown}",
+    "loginCode": "Login code",
+    "magicLink": "via magic link",
+    "dontHaveAccount": "Don’t have an account yet?",
+    "signUp": "Sign up",
+    "withEmailAndPassword": "with email and password",
+    "sendEmail": "Send Email",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "updatePassword": "Update Password",
+    "alreadyHaveAccount": "Already have an account?"
   },
   "index": {
-    "title": "AI 음악 생성기 무료 온라인",
-    "highlight": {
-      "text2": "AI 음악 생성기",
-      "text1": "노래",
-      "text5": "주간",
-      "text4": "창작자",
-      "text3": "전문가",
-      "text6": "다운로드"
-    },
-    "description": "어떤 사람이든 멋진 음악을 만들 수 있는 미래를 구축하는 중입니다. 상상력만 있으면 당신의 마음에서 음악으로.",
-    "form": {
-      "title": "새로운 노래에 대해 말해주세요 ✍️",
-      "placeholder": "당신을 다시 만나기를 기다릴 수 없는 감정적인 노래",
-      "buttonText": "✨해보세요!",
-      "requiredError": "노래 설명이 필요합니다."
-    },
-    "showAll": "모두 표시",
-    "albums": "인기 있는 AI 음악 앨범들",
-    "creators": "인기 있는 음악 창작자들",
-    "trending": "인기 있는 AI 음악",
-    "faq": {
-      "title": "자주 묻는 질문",
-      "question2": {
-        "title": "AI 음악 생성기를 무료로 사용할 수 있나요?",
-        "content": "네, Startkit는 기본 기능을 갖춘 무료 버전을 제공합니다. 고급 기능 및 상업적 이용은 구독 또는 결제가 필요할 수 있습니다."
-      },
-      "question1": {
-        "title": "AI 음악 생성기란 무엇인가요?",
-        "content": "Startkit는 다양한 장르에서 고품질 작품을 생산하는 고급 음악 생성기입니다. 최신 버전은 오디오 품질에서 스튜디오 제작물과 견줄 만하며, 사용자의 창의적인 비전에 부합하는 독특하고 맞춤형 음악 창작을 제공합니다."
-      },
-      "question4": {
-        "title": "AI-생성된 음악을 상업적 목적으로 사용할 수 있나요?",
-        "content": "예, 상업적 목적으로 AI가 생성한 음악을 사용할 수 있습니다. 그러나 특정 사용 사례에 적용되는 상업 이용, 소유권 요구사항 및 라이센싱 수수료와 관련된 Startkit의 이용 약관을 검토하고 준수하는 것이 중요합니다."
-      },
-      "question5": {
-        "title": "AI 음악 생성기는 어떻게 음악을 생성합니까?",
-        "content": "Startkit는 음악 패턴, 스타일 및 구조를 분석하기 위해 고급 알고리즘과 기계 학습 기술을 활용합니다.",
-        "content2": "사용자 입력과 선호도에 맞게 원본 작품을 생성합니다."
-      },
-      "question3": {
-        "content": "nextjs-supabase-cloudflare 구성물에서 악기와 소리를 사용자 정의할 수 있습니다. 이 기능을 통해 사용자는 원하는 음악적 효과와 창작물의 독창성을 달성할 수 있습니다.",
-        "title": "AI 음악 생성기에서 악기와 소리를 사용자 정의할 수 있나요?"
-      },
-      "question8": {
-        "title": "nextjs-supabase-cloudflare 환불 정책은 무엇인가요?",
-        "content": "안타깝게도, AI 처리에 필요한 상당한 자원으로 인해 환불을 제공할 수 없습니다."
-      },
-      "question6": {
-        "title": "Startkit로 만든 음악을 어떻게 공유할 수 있나요?",
-        "content": "일반적으로 Startkit로 만든 음악은 플랫폼에서 직접 소셜 미디어, 음악 스트리밍 서비스 또는 개인 웹사이트로 공유할 수 있으며, 플랫폼의 공유 기능과 협정을 활용할 수 있습니다."
-      },
-      "question7": {
-        "title": "지불 서비스는 안전한가요?",
-        "content": "절대로, 우리의 결제 서비스는 안전합니다. 모든 금융 처리를 Stripe에 맡기고 귀하의 카드 세부 정보 중 어떠한 것도 보관하지 않습니다. Stripe는 은행과 동등한 보안 기준을 보장합니다."
-      }
-    },
-    "genres": "AI 음악의 장르",
     "plan": {
-      "description": "모두를 위한 음악 창작의 새로운 시대를 열다.",
-      "upgradeNormalDescription": "귀하의 계정에 더 많은 시간을 추가하고, 필요할 때 지불하세요.",
-      "upgradeDownloadTitle": "무제한 다운로드를 위한 업그레이드",
-      "title": "매번 지불",
-      "upgradeNormalTitle": "생성 횟수 부족",
-      "upgradePrivateTitle": "개인 노래 업그레이드",
+      "title": "Pay as you go",
+      "description": "Unlock a new version.",
+      "upgradeNormalTitle": "Insufficient  generate times",
+      "upgradeNormalDescription": "Add more times to your account, pay as you go",
+      "upgradeDownloadTitle": "Upgrade for Unlimited Downloads",
+      "upgradeDownloadDescription": "Add more times to your account, pay as you go",
+      "upgradePrivateTitle": "Upgrade for Private",
+      "upgradePrivateDescription": "Add more times to your account, pay as you go",
       "plan1": {
-        "buttonText": "시작하기",
-        "description": "일시불 결제",
-        "title": "무료",
-        "text6": "24시간 7일 이메일 지원",
-        "text5": "개인 노래",
-        "text4": "무제한 다운로드",
-        "text2": "무료 평가판",
-        "text1": "10 생성 시간",
-        "text3": "무손실 오디오 품질"
+        "title": "Free",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "10 Generate times",
+        "text2": "free trial",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support"
       },
-      "upgradePrivateDescription": "귀하의 계정에 더 많은 시간을 추가하고, 필요할 때 지불하세요.",
-      "upgradeDownloadDescription": "귀하의 계정에 더 많은 시간을 추가하고, 필요할 때 지불하세요.",
       "plan2": {
-        "buttonText": "시작하기",
-        "title": "가장 인기 있는",
-        "description": "일시불 결제",
-        "text3": "손실 없는 오디오 품질",
-        "text1": "1000 생성 횟수",
-        "text2": "노래 당 $0.01",
-        "text4": "무제한 다운로드",
-        "text5": "개인 노래",
-        "text7": "1년 동안 이용 가능합니다.",
-        "text6": "24시간 7일 이메일 지원"
+        "title": "Premium",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "1000 Generate times",
+        "text2": "$0.01 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
       },
       "plan3": {
-        "description": "일시불",
-        "title": "기본",
-        "text1": "500 생성 횟수",
-        "buttonText": "시작하기",
-        "text5": "개인 노래",
-        "text4": "무제한 다운로드",
-        "text2": "$0.02 당 노래",
-        "text3": "무손실 오디오 품질",
-        "text6": "24시간 7일 이메일 지원",
-        "text7": "1년 동안 이용 가능합니다."
+        "title": "Basic",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "500 Generate times",
+        "text2": "$0.02 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
       }
     },
     "bottomDescription": {
-      "title": "아무 주제로 노래 만들기",
-      "buttonText": "당신의 노래를 만드세요",
-      "description": "지금 AI 음악 생성기를 시도해보세요. 신용카드가 필요하지 않습니다."
+      "title": "Make a song about anything",
+      "description": "Try nextjs-supabase-cloudflare now. No credit card required.",
+      "buttonText": "Make your songs"
     }
   },
-  "explore": {
-    "title": "AI 음악 발견",
-    "songTable": {
-      "date": "날짜 추가됨",
-      "title": "제목",
-      "album": "앨범"
-    },
-    "buttonText": "당신의 노래를 만드세요",
-    "description": "{songnumber} 곡이 생성되었습니다"
-  },
-  "genres": {
-    "title": "모든 AI 음악 장르",
-    "buttonText": "당신의 노래를 만드세요",
-    "description": "지금 AI 음악 생성기를 시도해보세요. 신용카드가 필요하지 않습니다."
-  },
-  "albums": {
-    "title": "인기 있는 AI 음악 앨범",
-    "buttonText": "당신의 노래를 만드세요",
-    "description": "지금 Startkit를 시도해보세요. 신용카드가 필요하지 않습니다."
-  },
-  "genre": {
-    "title": "{genrename} 음악",
-    "songTable": {
-      "album": "앨범",
-      "title": "제목",
-      "action": "행동",
-      "rename": "이름 바꾸기",
-      "copyLink": "노래 링크 복사",
-      "date": "날짜 추가됨",
-      "copyLinkToastDescription": "노래 링크가 복사되었습니다",
-      "download": "MP3 다운로드",
-      "changeAlbumModalTitle": "앨범에 추가",
-      "renameToastDescription": "저장됨",
-      "addToAlbum": "앨범에 추가",
-      "private": "비공개",
-      "renameModalButtonText": "확인"
-    },
-    "description": "{songnumber} 곡 이상이 생성되었습니다",
-    "tab": {
-      "albums": "앨범",
-      "songs": "노래"
-    },
-    "buttonText": "당신의 노래를 만드세요"
-  },
-  "song": {
-    "title": "노래",
-    "dropdown": {
-      "copyLinkToastDescription": "노래 링크가 복사되었습니다",
-      "addToAlbum": "앨범에 추가",
-      "rename": "이름 바꾸기",
-      "copyLink": "노래 링크 복사",
-      "download": "MP3 다운로드",
-      "renameToastDescription": "저장됨",
-      "private": "비공개",
-      "renameModalButtonText": "확인",
-      "privateUpgradeButtonText": "계정 업그레이드",
-      "downloadUpgradeTitle": "무제한 음악 다운로드 잠금 해제",
-      "privateUpgradeTitle": "당신의 음악을 비공개로 유지하세요",
-      "changeAlbumModalTitle": "앨범에 추가",
-      "deleted": "삭제됨",
-      "save": "저장",
-      "uploadCover": "커버 업로드",
-      "downloadUpgradeButtonText": "지금 업그레이드하기",
-      "deleteError": "노래가 있는 앨범을 삭제할 수 없습니다.",
-      "editAlbum": "앨범 편집",
-      "userError": "사용자 정보 업데이트 오류.",
-      "saved": "저장됨",
-      "delete": "삭제",
-      "albumTitleSchemaError": "기본 앨범 제목이 이미 존재합니다",
-      "edit": "편집",
-      "name": "이름"
-    },
-    "relatedAlbums": "관련 앨범",
-    "relatedGenres": "관련 장르",
-    "recommended": "추천"
-  },
-  "shareButton": {
-    "toastDescription": "공유 링크 복사 성공",
-    "buttonText": "공유"
-  },
-  "album": {
-    "title": "앨범",
-    "albumSongTable": {
-      "remove": "제거",
-      "title": "제목",
-      "toastRemoved": "제거됨",
-      "date": "날짜 추가됨",
-      "action": "행동",
-      "toastFailToRemoved": "앨범에서 노래를 제거하지 못했습니다."
-    },
-    "moreByUserTitle": "{username}의 더 많은 앨범",
-    "modal": {
-      "confirmButton": "네, 확실해요",
-      "cancelButton": "취소하지 않습니다.",
-      "title": "이 앨범에서 제거하시겠습니까?"
-    }
-  },
-  "user": {
-    "editUser": {
-      "edit": "편집",
-      "saved": "저장됨",
-      "modalTitle": "프로필 편집",
-      "uploadAvatar": "아바타 업로드",
-      "userNameNeedEdit": "사용자 이름이 변경되지 않았습니다.",
-      "modalButtonText": "저장",
-      "userNameSchemaError": "이름은 소문자 (a-z), 숫자 (0-9) 및 하이픈 (-)만 포함할 수 있으며, 숫자로 시작할 수 없습니다.",
-      "name": "사용자 이름",
-      "userNameExists": "사용자 이름이 이미 존재합니다"
-    },
-    "tab": {
-      "createAlbum": "앨범 만들기",
-      "create": "생성",
-      "albums": "앨범",
-      "songs": "노래",
-      "createMusic": "음악 만들기",
-      "name": "이름",
-      "genres": "장르"
-    },
-    "songTable": {
-      "action": "행동",
-      "date": "날짜 추가됨",
-      "title": "제목",
-      "album": "앨범",
-      "copyLink": "노래 링크 복사",
-      "addToAlbum": "앨범에 추가",
-      "copyLinkToastDescription": "노래 링크가 복사되었습니다.",
-      "renameToastDescription": "저장됨",
-      "download": "MP3 다운로드",
-      "rename": "이름 바꾸기",
-      "inProgress": "진행 중",
-      "private": "비공개",
-      "delete": "삭제",
-      "renameModalButtonText": "확인",
-      "creating": "생성",
-      "changeAlbumModalTitle": "앨범에 추가",
-      "downloadUpgradeButtonText": "지금 업그레이드하기",
-      "privateUpgradeButtonText": "계정 업그레이드하기",
-      "privateUpgradeTitle": "당신의 음악을 비공개로 유지하세요",
-      "downloadUpgradeTitle": "무제한 음악 다운로드 잠금 해제"
-    }
+  "user": {},
+  "blog": {
+    "notFoundTitle": "Sorry we couldnt find any blog.",
+    "notFoundDescription": "But dont worry, you can find plenty of other things on our homepage or change the language.",
+    "notFoundButtonText": "Back to homepage"
   },
   "notFound": {
-    "title": "뭔가 빠졌어요.",
-    "description": "죄송합니다. 해당 페이지를 찾을 수 없습니다. 홈페이지에서 탐색할 많은 정보들이 있습니다.",
-    "buttonText": "홈페이지로 돌아가기"
-  },
-  "musicGenerateModal": {
-    "songGeneratingErrorTitle": "음... 문제가 발생했습니다.",
-    "pointsError": "노래를 생성할 포인트가 충분하지 않습니다.",
-    "songGeneratingTitle": "당신의 노래가 생성 중입니다.",
-    "songRequired": "노래 설명이 필요합니다.",
-    "songGeneratingDescription": "프로필 페이지에서 곡을 확인할 수 있습니다.",
-    "songDescription": "노래 설명",
-    "lyricsRequired": "가사가 필요합니다",
-    "titleRequired": "제목은 필수입니다",
-    "autoMode": "자동 모드",
-    "genreRequired": "장르는 필수입니다",
-    "songDescriptionPlaceholder": "당신이 원하는 음악 스타일과 주제를 설명해주세요 (예: '휴일에 관한 어쿠스틱 팝'). 특정 아티스트나 노래 대신 장르와 분위기를 사용하세요.",
-    "instrumental": "악기음악",
-    "customMode": "사용자 정의 모드",
-    "createMusic": "음악 만들기",
-    "lyrics": "가사",
-    "tooltip": "가사 없는 노래를 만드세요.",
-    "lyricsDescriptionPlaceholder": "당신만의 가사를 쓰거나 AI로부터 도움을 받으세요. 최고의 결과를 얻으려면 두 절(8줄)을 사용하세요.",
-    "genreTitle": "음악 스타일",
-    "randomStyle": "임의 스타일 사용",
-    "songTitle": "제목",
-    "songTitleDescriptionPlaceholder": "공유, 발견 및 조직을 위한 제목입니다.",
-    "genreDescriptionPlaceholder": "당신이 원하는 음악 스타일을 설명해주세요 (예: '어쿠스틱 팝'). 아티스트 이름은 인식하지 않지만 장르와 분위기는 이해합니다."
+    "title": "Something's missing.",
+    "description": "Sorry, we can't find that page. You'll find lots to explore on the home page.",
+    "buttonText": "Back to Homepage"
   },
   "footer": {
-    "title": "AI 음악 생성기",
-    "privacyPolicy": "개인정보 보호 정책",
-    "about": "AI 음악 생성기에 대해 알려주세요.",
-    "contact": "연락하기",
-    "company": "회사",
-    "termsOfService": "서비스 약관",
-    "legal": "법적인",
-    "contactUs": "문의하기"
+    "title": "nextjs-supabase-cloudflare",
+    "company": "Company",
+    "about": "About",
+    "legal": "Legal",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
   }
 }

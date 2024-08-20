@@ -87,7 +87,7 @@ export default function PrivacyPolicy() {
           <h2 className="text-xl font-semibold mt-6">Contact:</h2>
           <p className=" mt-6">
             For questions or concerns about this notice, please contact us at
-            contact@ai-music-generator.ai.
+            contact@nextjs-supabase-cloudflare.
           </p>
         </div>
       </div>

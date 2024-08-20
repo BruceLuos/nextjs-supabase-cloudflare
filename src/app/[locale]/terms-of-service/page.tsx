@@ -127,9 +127,9 @@ export default function TermsOfService() {
           <h2 className="text-xl font-semibold mt-6">Contact Us:</h2>
           <p className=" mt-6">
             If you have any questions or concerns about these Terms, please
-            contact us at contact@ai-music-generator.ai. By using our Services,
-            you acknowledge that you have read, understood, and agree to be
-            bound by these Terms. Thank you for choosing
+            contact us at contact@nextjs-supabase-cloudflare. By using our
+            Services, you acknowledge that you have read, understood, and agree
+            to be bound by these Terms. Thank you for choosing
             nextjs-supabase-cloudflare!
           </p>
         </div>

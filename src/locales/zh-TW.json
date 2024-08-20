@@ -1,352 +1,121 @@
 {
   "metadata": {
-    "title": "免費AI音樂生成器 - ai-music-generator.ai",
-    "genresTitle": "所有類型 | ai-music-generator.ai",
-    "exploreDescription": "探索在ai-music-generator.ai上生成的AI音乐。",
-    "exploreTitle": "探索 AI 音樂 | ai-music-generator.ai",
-    "description": "ai-music-generator.ai - 在線AI音樂生成器。免費創作獨特的AI歌曲。立即開始，下載MP3，享受AI音樂！",
-    "genresDescription": "探索各種類型的AI音樂。",
-    "genreTitle": "{genreName}音樂 | ai-music-generator.ai",
-    "albumTitle": "{albumName} - {userName} 的專輯 | ai-music-generator.ai",
-    "albumsTitle": "熱門專輯 | ai-music-generator.ai",
-    "albumsDescription": "尋找東西嗎？找專輯和更多。",
-    "genreDescription": "在 ai-music-generator.ai 上探索 {genreName} 音樂，共有 {genreSongNumber} 首歌曲。",
-    "songTitle": "{songName} - {userName} 創作的歌曲和歌詞 | ai-music-generator.ai",
-    "albumDescription": "在AI音樂生成器上收聽{albumName}。{userName} · 專輯 · 2024年 · {albumSongNumber} 首歌曲。",
-    "pricingTitle": "價格 | ai-music-generator.ai",
-    "userTitle": "{userName} | ai-music-generator.ai",
-    "songDescription": "在AI音乐生成器上收听{songName}。{userName} · 歌曲 · 2024.",
-    "pricingDescription": "按需付费，为每个人解锁音乐创作的新时代。",
-    "notFoundTitle": "找不到 | ai-music-generator.ai",
-    "userDescription": "在AI音乐生成器上收听{userName}。创作者。"
+    "title": "Next.js Supabase Cloudflare",
+    "description": "Next.js Application with supabase and cloudflare deploy",
+    "blogTitle": "Blog",
+    "pricingTitle": "Pricing",
+    "pricingDescription": "Pay as you go",
+    "userTitle": "{userName}",
+    "userDescription": "{userName} on nextjs-supabase-cloudflare.",
+    "notFoundTitle": "not found"
   },
   "navbar": {
-    "signIn": "登入",
-    "home": "AI音樂生成器",
-    "blog": "部落格",
-    "signOut": "登出",
-    "profile": "個人資料",
-    "pricing": "價格",
-    "genres": "音樂類型",
-    "albums": "音樂專輯",
-    "account": "帳戶",
-    "explore": "探索 AI 音樂",
-    "billing": "帳單",
-    "generateTimes": "生成次数",
-    "emailCopyDescription": "已複製電子郵件地址",
-    "support": "支援"
+    "home": "Home",
+    "blog": "Blog",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "pricing": "Pricing",
+    "profile": "Profile",
+    "generateTimes": "{points} Generate times",
+    "billing": "Billing",
+    "support": "Support",
+    "emailCopyDescription": "Email address copied"
   },
   "authenticate": {
-    "signUpTitle": "註冊",
-    "signInTitle": "登入",
-    "forgetPassword": "忘記密碼？",
-    "signUpGoogle": "使用Google注册",
-    "updatePasswordTitle": "更新密碼",
-    "email": "電子郵件",
-    "password": "密碼",
-    "resetPasswordTitle": "重設密碼",
-    "resend": "重新发送",
-    "resendIn": "在 {countdown} 重新发送",
-    "signInCode": "繼續使用登入代碼",
-    "signIn": "繼續使用電子郵件",
-    "loginCode": "登入代碼",
-    "magicLink": "透過魔法連結",
-    "confirmNewPassword": "確認新密碼",
-    "dontHaveAccount": "還沒有帳戶嗎？",
-    "newPassword": "新密碼",
-    "withEmailAndPassword": "通過電子郵件和密碼進行身份驗證",
-    "sendEmail": "發送郵件",
-    "signUp": "註冊",
-    "alreadyHaveAccount": "已有帳戶？",
-    "updatePassword": "更新密碼"
+    "signInTitle": "Sign In",
+    "signUpTitle": "Sign Up",
+    "signUpGoogle": "Sign up with Google",
+    "resetPasswordTitle": "Reset Password",
+    "updatePasswordTitle": "Update Password",
+    "email": "Email",
+    "password": "Password",
+    "forgetPassword": "Forgot password?",
+    "signIn": "Continue with Email",
+    "signInCode": "Continue with login code",
+    "resend": "Resend",
+    "resendIn": "Resend in {countdown}",
+    "loginCode": "Login code",
+    "magicLink": "via magic link",
+    "dontHaveAccount": "Don’t have an account yet?",
+    "signUp": "Sign up",
+    "withEmailAndPassword": "with email and password",
+    "sendEmail": "Send Email",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "updatePassword": "Update Password",
+    "alreadyHaveAccount": "Already have an account?"
   },
   "index": {
-    "highlight": {
-      "text2": "創建",
-      "text1": "歌曲",
-      "text5": "每週",
-      "text6": "下載",
-      "text4": "創作者",
-      "text3": "專業"
-    },
-    "title": "AI音樂生成器免費在線",
-    "description": "建立一個未來，任何人都可以創作出優秀音樂的世界。只需想像力，從你的腦海到音樂。",
-    "form": {
-      "title": "告訴我關於你的新歌曲 ✍️",
-      "placeholder": "一首關於迫不及待再次見到你的感性歌曲",
-      "buttonText": "✨試一試！",
-      "requiredError": "歌曲描述是必填项"
-    },
-    "albums": "熱門 AI 音樂專輯",
-    "trending": "熱門 AI 音樂",
-    "creators": "熱門音樂創作者",
-    "showAll": "顯示全部",
-    "faq": {
-      "question1": {
-        "title": "AI音樂生成器是什麼？",
-        "content": "AI音樂生成器是一款先進的音樂生成器，能夠跨越各種流派製作高質量作品。其最新版本在音頻質量上與工作室製作相媲美，提供獨特且個性化的音樂創作，符合用戶的創意願景。"
-      },
-      "title": "常見問題",
-      "question2": {
-        "title": "AI音樂生成器免費使用嗎？",
-        "content": "是的，AI音樂生成器提供免費版本，具備基本功能。進階功能和商業用途可能需要訂閱或付款。"
-      },
-      "question5": {
-        "title": "AI音樂生成器是如何產生音樂的？",
-        "content": "AI音樂生成器利用先進的算法和機器學習技術來分析音樂模式、風格和結構。",
-        "content2": "它會根據用戶的輸入和偏好生成原創作品。"
-      },
-      "question3": {
-        "title": "我可以在AI音乐生成器中自定义乐器和声音吗？",
-        "content": "是的，您可以在AI音乐生成器作品中自定义乐器和声音。此功能使用户能够实现所需的音乐效果，并在其创作中展现独特性。"
-      },
-      "question4": {
-        "title": "我可以将AI生成的音乐用于商业目的吗？",
-        "content": "是的，您可以将由AI生成的音乐用于商业目的。然而，重要的是要查看并遵守AI音乐生成器关于商业使用、归属要求以及可能适用于特定用例的任何许可费用的使用条款。"
-      },
-      "question6": {
-        "title": "我如何分享由AI音乐生成器创建的音乐？",
-        "content": "通常您可以直接從AI音樂生成器平台分享您創作的音樂到社交媒體、音樂串流服務或個人網站，利用該平台的分享功能和協議。"
-      },
-      "question8": {
-        "title": "AI音樂生成器的退款政策是什麼？",
-        "content": "很遺憾，由於AI處理需要大量資源，我們無法提供退款。"
-      },
-      "question7": {
-        "title": "付款服務是否安全？",
-        "content": "當然，我們的付款服務是安全的。我們將所有金融處理委託給Stripe，並不保留您的任何卡片詳細信息。Stripe保證與銀行相同水準的安全標準。"
-      }
-    },
-    "genres": "AI音樂的流派",
     "plan": {
-      "upgradeDownloadTitle": "升級以無限下載",
-      "upgradeNormalDescription": "為您的帳戶增加更多次數，按需付費",
-      "upgradeNormalTitle": "生成次數不足",
-      "title": "按使用量付费",
-      "description": "為每個人開啟音樂創作的新時代。",
-      "upgradeDownloadDescription": "為您的帳戶增加更多次數，按需付費",
-      "upgradePrivateDescription": "將更多次數添加到您的帳戶，按需付費",
-      "upgradePrivateTitle": "升級私人歌曲",
+      "title": "Pay as you go",
+      "description": "Unlock a new version.",
+      "upgradeNormalTitle": "Insufficient  generate times",
+      "upgradeNormalDescription": "Add more times to your account, pay as you go",
+      "upgradeDownloadTitle": "Upgrade for Unlimited Downloads",
+      "upgradeDownloadDescription": "Add more times to your account, pay as you go",
+      "upgradePrivateTitle": "Upgrade for Private",
+      "upgradePrivateDescription": "Add more times to your account, pay as you go",
       "plan1": {
-        "description": "一次性付款",
-        "title": "免费",
-        "buttonText": "開始",
-        "text4": "無限次下載",
-        "text1": "生成次數",
-        "text6": "24小時×7電子郵件支援",
-        "text2": "免費試用",
-        "text3": "無損音頻質量",
-        "text5": "私人歌曲"
+        "title": "Free",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "10 Generate times",
+        "text2": "free trial",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support"
       },
       "plan2": {
-        "text1": "1000次生成",
-        "text3": "無損音頻質量",
-        "text2": "每首歌 $0.01",
-        "title": "最受歡迎",
-        "buttonText": "開始",
-        "description": "一次性付款",
-        "text4": "無限下載",
-        "text7": "可用1年",
-        "text6": "24小時×7電子郵件支援",
-        "text5": "私人歌曲"
+        "title": "Premium",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "1000 Generate times",
+        "text2": "$0.01 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
       },
       "plan3": {
-        "description": "一次性付款",
-        "title": "基本",
-        "text3": "無損音質",
-        "text5": "私人歌曲",
-        "text2": "每首歌 $0.02",
-        "text1": "500次生成",
-        "buttonText": "開始",
-        "text4": "無限下載",
-        "text7": "可用1年",
-        "text6": "24小時×7電子郵件支援"
+        "title": "Basic",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "500 Generate times",
+        "text2": "$0.02 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
       }
     },
     "bottomDescription": {
-      "title": "製作一首關於任何事情的歌曲",
-      "buttonText": "製作您的歌曲",
-      "description": "立即嘗試AI音樂生成器。無需信用卡。"
+      "title": "Make a song about anything",
+      "description": "Try nextjs-supabase-cloudflare now. No credit card required.",
+      "buttonText": "Make your songs"
     }
   },
-  "explore": {
-    "title": "探索 AI 音樂",
-    "description": "已創作超過 {songnumber} 首歌曲",
-    "songTable": {
-      "album": "專輯",
-      "title": "標題",
-      "date": "添加日期"
-    },
-    "buttonText": "製作您的歌曲"
-  },
-  "genres": {
-    "title": "所有AI音樂類型",
-    "description": "立即嘗試AI音樂生成器。無需信用卡。",
-    "buttonText": "製作您的歌曲"
-  },
-  "albums": {
-    "buttonText": "製作您的歌曲",
-    "description": "立即嘗試AI音樂生成器。無需信用卡。",
-    "title": "熱門 AI 音樂專輯"
-  },
-  "genre": {
-    "title": "{genrename} 音樂",
-    "description": "已創作超過 {songnumber} 首歌曲",
-    "tab": {
-      "songs": "歌曲",
-      "albums": "專輯"
-    },
-    "songTable": {
-      "album": "專輯",
-      "title": "標題",
-      "copyLinkToastDescription": "歌曲链接已複製",
-      "download": "下載 MP3",
-      "action": "動作",
-      "copyLink": "複製歌曲連結",
-      "rename": "重新命名",
-      "date": "添加日期",
-      "addToAlbum": "新增至專輯",
-      "renameToastDescription": "已保存",
-      "changeAlbumModalTitle": "新增至專輯",
-      "renameModalButtonText": "確認",
-      "private": "私人"
-    },
-    "buttonText": "製作您的歌曲"
-  },
-  "song": {
-    "title": "歌曲",
-    "dropdown": {
-      "renameToastDescription": "已保存",
-      "copyLinkToastDescription": "歌曲連結已複製",
-      "download": "下載 MP3",
-      "rename": "重新命名",
-      "copyLink": "複製歌曲連結",
-      "addToAlbum": "新增至專輯",
-      "changeAlbumModalTitle": "新增至專輯",
-      "downloadUpgradeTitle": "解鎖無限音樂下載",
-      "renameModalButtonText": "確認",
-      "privateUpgradeTitle": "保持您的音樂私密",
-      "privateUpgradeButtonText": "升級您的帳戶",
-      "private": "私人",
-      "editAlbum": "編輯專輯",
-      "uploadCover": "上傳封面",
-      "deleted": "已刪除",
-      "save": "保存",
-      "deleteError": "無法刪除帶有歌曲的專輯。",
-      "downloadUpgradeButtonText": "升級現在",
-      "saved": "已儲存",
-      "delete": "刪除",
-      "edit": "編輯",
-      "albumTitleSchemaError": "預設專輯標題已存在",
-      "name": "名稱",
-      "userError": "更新使用者資訊時發生錯誤。"
-    },
-    "recommended": "推薦",
-    "relatedGenres": "相關流派",
-    "relatedAlbums": "相關專輯"
-  },
-  "shareButton": {
-    "toastDescription": "複製分享連結成功",
-    "buttonText": "分享"
-  },
-  "album": {
-    "title": "專輯",
-    "albumSongTable": {
-      "remove": "移除",
-      "action": "動作",
-      "title": "標題",
-      "toastRemoved": "已移除",
-      "date": "新增日期",
-      "toastFailToRemoved": "從專輯中刪除歌曲失敗"
-    },
-    "moreByUserTitle": "由 {username} 更多",
-    "modal": {
-      "confirmButton": "是的，我确定",
-      "cancelButton": "不，取消",
-      "title": "您確定要從這張專輯中刪除它嗎？"
-    }
-  },
-  "user": {
-    "editUser": {
-      "edit": "編輯",
-      "saved": "已保存",
-      "userNameNeedEdit": "用戶名未更改",
-      "name": "用戶名",
-      "modalButtonText": "儲存",
-      "uploadAvatar": "上傳頭像",
-      "userNameSchemaError": "名稱只能包含小寫字母（a-z）、數字（0-9）和連字符（-）；不能以數字開頭。",
-      "modalTitle": "編輯個人資料",
-      "userNameExists": "用戶名已存在"
-    },
-    "tab": {
-      "createAlbum": "創建專輯",
-      "create": "創建",
-      "albums": "專輯",
-      "createMusic": "創作音樂",
-      "songs": "歌曲",
-      "genres": "音樂類型",
-      "name": "名稱"
-    },
-    "songTable": {
-      "title": "標題",
-      "date": "新增日期",
-      "action": "行動",
-      "album": "專輯",
-      "download": "下載 MP3",
-      "renameToastDescription": "已保存",
-      "addToAlbum": "新增至專輯",
-      "rename": "重新命名",
-      "copyLinkToastDescription": "歌曲連結已複製",
-      "copyLink": "複製歌曲連結",
-      "renameModalButtonText": "確認",
-      "delete": "刪除",
-      "private": "私人",
-      "changeAlbumModalTitle": "新增至專輯",
-      "creating": "創建",
-      "inProgress": "進行中",
-      "downloadUpgradeButtonText": "立即升級",
-      "privateUpgradeButtonText": "升級您的帳戶",
-      "privateUpgradeTitle": "保持您的音樂私密",
-      "downloadUpgradeTitle": "解鎖無限音樂下載"
-    }
+  "user": {},
+  "blog": {
+    "notFoundTitle": "Sorry we couldnt find any blog.",
+    "notFoundDescription": "But dont worry, you can find plenty of other things on our homepage or change the language.",
+    "notFoundButtonText": "Back to homepage"
   },
   "notFound": {
-    "description": "抱歉，我們找不到該頁面。您可以在首頁上找到許多探索的內容。",
-    "title": "有些東西不見了。",
-    "buttonText": "返回首页"
-  },
-  "musicGenerateModal": {
-    "songGeneratingTitle": "您的歌曲正在生成",
-    "songRequired": "歌曲描述是必需的",
-    "songGeneratingErrorTitle": "嗯...出了些問題。",
-    "songGeneratingDescription": "您可以在个人资料页面查看您的歌曲",
-    "pointsError": "您沒有足夠的點數來生成一首歌曲。",
-    "genreRequired": "需要類型",
-    "autoMode": "自動模式",
-    "songDescription": "歌曲描述",
-    "lyricsRequired": "需要歌词",
-    "titleRequired": "標題為必填項目",
-    "songDescriptionPlaceholder": "描述您想要的音樂風格和主題（例如：“關於假期的原聲流行音樂”）。使用流派和氛圍，而不是具體的藝術家和歌曲。",
-    "instrumental": "器乐",
-    "customMode": "自定义模式",
-    "lyrics": "歌词",
-    "tooltip": "製作一首無歌詞的歌曲。",
-    "lyricsDescriptionPlaceholder": "寫下你自己的歌詞，或者從AI獲得一些幫助。使用兩個段落（8行）以獲得最佳效果。",
-    "createMusic": "創建音樂",
-    "randomStyle": "使用隨機風格",
-    "songTitle": "標題",
-    "genreTitle": "音樂風格",
-    "songTitleDescriptionPlaceholder": "用於分享、發現和組織的標題。",
-    "genreDescriptionPlaceholder": "描述您想要的音乐风格（例如“原声流行”）。不识别艺术家的名字，但能理解类型和氛围。"
+    "title": "Something's missing.",
+    "description": "Sorry, we can't find that page. You'll find lots to explore on the home page.",
+    "buttonText": "Back to Homepage"
   },
   "footer": {
-    "title": "AI音樂生成器",
-    "company": "公司",
-    "contact": "聯繫",
-    "privacyPolicy": "隱私政策",
-    "termsOfService": "服務條款",
-    "legal": "法律",
-    "about": "關於",
-    "contactUs": "聯絡我們"
+    "title": "nextjs-supabase-cloudflare",
+    "company": "Company",
+    "about": "About",
+    "legal": "Legal",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
   }
 }

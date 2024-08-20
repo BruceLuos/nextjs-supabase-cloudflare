@@ -1,5 +1,4 @@
 import PricingSection from "@/components/PricingSection";
-import HeadingWithCTAButtonSection from "@/components/HeadingCTA";
 import config from "@/config";
 import { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
@@ -65,7 +64,6 @@ export default async function PricingPage({ params: { locale } }: PageProps) {
   return (
     <>
       <PricingSection params={{ locale }} />
-      <HeadingWithCTAButtonSection />
     </>
   );
 }
