@@ -1,353 +1,121 @@
 {
   "metadata": {
-    "title": "Gerador de Música AI Gratuito - ai-music-generator.ai",
+    "title": "Next.js Supabase Cloudflare",
+    "description": "Next.js Application with supabase and cloudflare deploy",
     "blogTitle": "Blog",
-    "genresTitle": "Todos os Gêneros | ai-music-generator.ai",
-    "exploreDescription": "Explore a música gerada por IA em ai-music-generator.ai.",
-    "exploreTitle": "Explorar Música de IA | ai-music-generator.ai",
-    "description": "ai-music-generator.ai - Gerador de Música AI online. Crie músicas únicas com IA gratuitamente. Entre, baixe MP3 e aproveite a música da IA agora!",
-    "albumsDescription": "Procurando por algo? Encontre álbuns e muito mais.",
-    "genresDescription": "Explore AI music by genres.",
-    "albumsTitle": "Álbuns Populares | ai-music-generator.ai",
-    "albumTitle": "{albumName} - Álbum por {userName} | ai-music-generator.ai",
-    "genreTitle": "Música {genreName} | ai-music-generator.ai",
-    "genreDescription": "Descubra {genreSongNumber} músicas de {genreName} em ai-music-generator.ai",
-    "userTitle": "{userName} | ai-music-generator.ai",
-    "songTitle": "{songName} - música e letras por {userName} | ai-music-generator.ai",
-    "albumDescription": "Ouça {albumName} no nextjs-supabase-cloudflare. {userName} · Álbum · 2024 · {albumSongNumber} músicas.",
-    "pricingTitle": "Preços | ai-music-generator.ai",
-    "pricingDescription": "Pague conforme o uso, desbloqueie uma Nova Era de Criação Musical para Todos.",
-    "songDescription": "Ouça {songName} no nextjs-supabase-cloudflare. {userName} · Música · 2024.",
-    "notFoundTitle": "Não encontrado | ai-music-generator.ai",
-    "userDescription": "Ouça {userName} no nextjs-supabase-cloudflare. Criadores."
+    "pricingTitle": "Pricing",
+    "pricingDescription": "Pay as you go",
+    "userTitle": "{userName}",
+    "userDescription": "{userName} on nextjs-supabase-cloudflare.",
+    "notFoundTitle": "not found"
   },
   "navbar": {
-    "signIn": "Entrar",
-    "signOut": "Sair",
-    "home": "Gerador de Música AI",
+    "home": "Home",
     "blog": "Blog",
-    "albums": "Álbuns de Música",
-    "explore": "Explorar Música de IA",
-    "genres": "Gêneros Musicais",
-    "profile": "Perfil",
-    "pricing": "Preços",
-    "account": "Conta",
-    "billing": "Faturamento",
-    "generateTimes": "Gerar tempos",
-    "support": "Suporte",
-    "emailCopyDescription": "Endereço de e-mail copiado"
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "pricing": "Pricing",
+    "profile": "Profile",
+    "generateTimes": "{points} Generate times",
+    "billing": "Billing",
+    "support": "Support",
+    "emailCopyDescription": "Email address copied"
   },
   "authenticate": {
-    "signInTitle": "Entrar",
-    "signUpTitle": "Registre-se",
-    "updatePasswordTitle": "Atualizar Senha",
-    "resetPasswordTitle": "Redefinir Senha",
-    "forgetPassword": "Esqueceu a senha?",
-    "signUpGoogle": "Registre-se com o Google",
-    "password": "Senha",
-    "email": "E-mail",
-    "signInCode": "Continuar com o código de login",
-    "loginCode": "Código de login",
-    "signIn": "Continuar com E-mail",
-    "resendIn": "Reenviar em {countdown}",
-    "resend": "Reenviar",
-    "magicLink": "via link mágico",
-    "newPassword": "Nova Senha",
-    "withEmailAndPassword": "com email e senha",
-    "signUp": "Registar",
-    "dontHaveAccount": "Ainda não tem uma conta?",
-    "sendEmail": "Enviar Email",
-    "confirmNewPassword": "Confirmar Nova Senha",
-    "alreadyHaveAccount": "Já tem uma conta?",
-    "updatePassword": "Atualizar Senha"
+    "signInTitle": "Sign In",
+    "signUpTitle": "Sign Up",
+    "signUpGoogle": "Sign up with Google",
+    "resetPasswordTitle": "Reset Password",
+    "updatePasswordTitle": "Update Password",
+    "email": "Email",
+    "password": "Password",
+    "forgetPassword": "Forgot password?",
+    "signIn": "Continue with Email",
+    "signInCode": "Continue with login code",
+    "resend": "Resend",
+    "resendIn": "Resend in {countdown}",
+    "loginCode": "Login code",
+    "magicLink": "via magic link",
+    "dontHaveAccount": "Don’t have an account yet?",
+    "signUp": "Sign up",
+    "withEmailAndPassword": "with email and password",
+    "sendEmail": "Send Email",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "updatePassword": "Update Password",
+    "alreadyHaveAccount": "Already have an account?"
   },
   "index": {
-    "highlight": {
-      "text1": "Músicas",
-      "text2": "Gerador de Música de IA",
-      "text5": "Semanal",
-      "text6": "Downloads",
-      "text4": "Criadores",
-      "text3": "Profissional"
-    },
-    "description": "Construindo um futuro onde qualquer pessoa pode criar ótima música. Apenas imaginação, da sua mente para a música.",
-    "title": "Gerador de Música AI Gratuito Online",
-    "form": {
-      "title": "Conte-me sobre a sua nova música ✍️",
-      "placeholder": "Uma canção emocional sobre não conseguir esperar para te ver de novo.",
-      "buttonText": "✨Experimente!",
-      "requiredError": "A descrição da música é obrigatória."
-    },
-    "trending": "Música AI em Tendência",
-    "showAll": "Mostrar tudo",
-    "albums": "Álbuns de Música AI Populares",
-    "creators": "Criadores de Música Populares",
-    "faq": {
-      "question2": {
-        "content": "Sim, o nextjs-supabase-cloudflare oferece uma versão gratuita com funcionalidades básicas. Funcionalidades avançadas e uso comercial podem exigir uma assinatura ou pagamento.",
-        "title": "O nextjs-supabase-cloudflare é gratuito para usar?"
-      },
-      "question1": {
-        "title": "O que é o Gerador de Música de IA?",
-        "content": "O nextjs-supabase-cloudflare é um gerador de música avançado que produz composições de alta qualidade em diversos gêneros. Sua versão mais recente rivaliza com as produções de estúdio em qualidade de áudio, oferecendo criação musical única e personalizada alinhada com as visões criativas dos usuários."
-      },
-      "title": "Perguntas frequentes",
-      "question4": {
-        "title": "Posso usar música gerada por IA para fins comerciais?",
-        "content": "Sim, você pode usar música gerada por IA para fins comerciais. No entanto, é importante revisar e cumprir os termos de uso do nextjs-supabase-cloudflare em relação ao uso comercial, requisitos de atribuição e quaisquer taxas de licenciamento que possam ser aplicáveis a casos de uso específicos."
-      },
-      "question3": {
-        "title": "Posso personalizar instrumentos e sons no Gerador de Música de IA?",
-        "content": "Sim, você pode personalizar instrumentos e sons nas composições do nextjs-supabase-cloudflare. Essa funcionalidade permite aos usuários alcançar os efeitos musicais desejados e a singularidade em suas criações."
-      },
-      "question5": {
-        "title": "Como o Gerador de Música de IA gera música?",
-        "content": "O nextjs-supabase-cloudflare utiliza algoritmos avançados e técnicas de aprendizado de máquina para analisar padrões, estilos e estruturas musicais.",
-        "content2": "Em seguida, gera composições originais adaptadas às entradas e preferências do usuário."
-      },
-      "question7": {
-        "title": "O serviço de pagamento é seguro?",
-        "content": "Absolutamente, nosso serviço de pagamento é seguro. Confiamos todo o processamento financeiro ao Stripe e não retemos nenhum dos detalhes do seu cartão. O Stripe garante padrões de segurança equivalentes aos dos bancos."
-      },
-      "question6": {
-        "title": "Como posso compartilhar minha música criada com o Gerador de Música AI?",
-        "content": "Você pode geralmente compartilhar sua música criada com o nextjs-supabase-cloudflare diretamente da plataforma para as redes sociais, serviços de streaming de música ou sites pessoais, aproveitando as capacidades e acordos de compartilhamento da plataforma."
-      },
-      "question8": {
-        "title": "Qual é a política de reembolso do nextjs-supabase-cloudflare?",
-        "content": "Infelizmente, devido aos recursos significativos necessários para o processamento de IA, não podemos oferecer reembolsos."
-      }
-    },
-    "genres": "Gêneros na Música de IA",
     "plan": {
-      "title": "Pague conforme o uso",
-      "upgradeNormalDescription": "Adicione mais vezes à sua conta, pague conforme usar.",
-      "upgradeDownloadTitle": "Atualização para Downloads Ilimitados",
-      "upgradeNormalTitle": "Número insuficiente de gerações",
-      "description": "Desbloqueie uma Nova Era de Criação Musical para Todos.",
-      "upgradePrivateDescription": "Adicione mais vezes à sua conta, pague conforme usar",
+      "title": "Pay as you go",
+      "description": "Unlock a new version.",
+      "upgradeNormalTitle": "Insufficient  generate times",
+      "upgradeNormalDescription": "Add more times to your account, pay as you go",
+      "upgradeDownloadTitle": "Upgrade for Unlimited Downloads",
+      "upgradeDownloadDescription": "Add more times to your account, pay as you go",
+      "upgradePrivateTitle": "Upgrade for Private",
+      "upgradePrivateDescription": "Add more times to your account, pay as you go",
       "plan1": {
-        "description": "Pagamento único",
-        "title": "Gratuito",
-        "buttonText": "Comece",
-        "text5": "Canções privadas",
-        "text3": "Qualidade de áudio sem perdas",
-        "text4": "Downloads ilimitados",
-        "text1": "10 Gerar vezes",
-        "text2": "teste gratuito",
-        "text6": "Suporte por e-mail 24 horas, 7 dias por semana"
+        "title": "Free",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "10 Generate times",
+        "text2": "free trial",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support"
       },
-      "upgradeDownloadDescription": "Adicione mais vezes à sua conta, pague conforme usar",
-      "upgradePrivateTitle": "Atualização para Canções Privadas",
       "plan2": {
-        "buttonText": "Comece",
-        "title": "Mais popular",
-        "text3": "Qualidade de áudio sem perdas",
-        "text2": "$0.01 por músicas",
-        "description": "Pagamento único",
-        "text1": "1000 vezes de geração",
-        "text4": "Downloads ilimitados",
-        "text7": "Disponível por 1 ano",
-        "text6": "Suporte por e-mail 24 horas, 7 dias por semana",
-        "text5": "Canções privadas"
+        "title": "Premium",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "1000 Generate times",
+        "text2": "$0.01 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
       },
       "plan3": {
-        "title": "Básico",
-        "description": "Pagamento único",
-        "text4": "Downloads ilimitados",
-        "buttonText": "Comece",
-        "text5": "Canções privadas",
-        "text1": "500 Gerações",
-        "text2": "$0.02 por música",
-        "text3": "Qualidade de áudio sem perdas",
-        "text6": "Suporte por e-mail 24 horas por dia, 7 dias por semana",
-        "text7": "Disponível por 1 ano"
+        "title": "Basic",
+        "description": "One-time Payment",
+        "buttonText": "Get Started",
+        "text1": "500 Generate times",
+        "text2": "$0.02 per times",
+        "text3": "Lossless audio quality",
+        "text4": "Unlimited downloads",
+        "text5": "Private",
+        "text6": "24×7 email support",
+        "text7": "Available for 1 years"
       }
     },
     "bottomDescription": {
-      "title": "Faça uma música sobre qualquer coisa",
-      "description": "Experimente agora o Gerador de Música AI. Não é necessário cartão de crédito.",
-      "buttonText": "Faça suas músicas"
+      "title": "Make a song about anything",
+      "description": "Try nextjs-supabase-cloudflare now. No credit card required.",
+      "buttonText": "Make your songs"
     }
   },
-  "explore": {
-    "title": "Descubra Música de IA",
-    "songTable": {
-      "album": "Álbum",
-      "title": "Título",
-      "date": "Data de adição"
-    },
-    "description": "Foram criadas mais de {songnumber} músicas.",
-    "buttonText": "Faça suas músicas"
-  },
-  "genres": {
-    "title": "Todos os Gêneros de Música AI",
-    "description": "Experimente o Gerador de Música AI agora. Não é necessário cartão de crédito.",
-    "buttonText": "Faça suas músicas"
-  },
-  "albums": {
-    "buttonText": "Faça suas músicas",
-    "description": "Experimente o nextjs-supabase-cloudflare agora. Não é necessário cartão de crédito.",
-    "title": "Álbuns de Música AI Populares"
-  },
-  "genre": {
-    "title": "Música {genrename}",
-    "songTable": {
-      "title": "Título",
-      "album": "Álbum",
-      "copyLinkToastDescription": "Link da música copiado",
-      "download": "Baixar MP3",
-      "rename": "Renomear",
-      "date": "Data de adição",
-      "copyLink": "Copiar Link da Música",
-      "action": "Ação",
-      "renameModalButtonText": "Confirmar",
-      "addToAlbum": "Adicionar ao álbum",
-      "private": "Privado",
-      "renameToastDescription": "Salvo",
-      "changeAlbumModalTitle": "Adicionar ao Álbum"
-    },
-    "tab": {
-      "albums": "Álbuns",
-      "songs": "Canções"
-    },
-    "buttonText": "Faça suas músicas",
-    "description": "Foram criadas mais de {songnumber} músicas."
-  },
-  "song": {
-    "title": "Música",
-    "dropdown": {
-      "addToAlbum": "Adicionar ao álbum",
-      "rename": "Renomear",
-      "renameToastDescription": "Salvo",
-      "copyLinkToastDescription": "Link da música copiado",
-      "copyLink": "Copiar Link da Música",
-      "download": "Baixar MP3",
-      "changeAlbumModalTitle": "Adicionar ao Álbum",
-      "privateUpgradeTitle": "Mantenha sua música privada",
-      "private": "Privado",
-      "privateUpgradeButtonText": "Atualize Sua Conta",
-      "downloadUpgradeTitle": "Desbloqueie downloads ilimitados de música",
-      "renameModalButtonText": "Confirmar",
-      "deleteError": "Não é possível excluir álbuns com músicas.",
-      "uploadCover": "Carregar Capa",
-      "editAlbum": "Editar Álbum",
-      "deleted": "Excluído",
-      "downloadUpgradeButtonText": "Atualize agora",
-      "save": "Salvar",
-      "saved": "Salvo",
-      "delete": "Excluir",
-      "albumTitleSchemaError": "Título do Álbum Padrão já existe",
-      "userError": "Erro ao atualizar informações do usuário.",
-      "name": "Nome",
-      "edit": "Editar"
-    },
-    "relatedAlbums": "Álbuns Relacionados",
-    "recommended": "Recomendado",
-    "relatedGenres": "Gênero Relacionado"
-  },
-  "shareButton": {
-    "buttonText": "Compartilhar",
-    "toastDescription": "Cópia do Link Compartilhada com Sucesso"
-  },
-  "album": {
-    "title": "Álbum",
-    "albumSongTable": {
-      "toastRemoved": "Removido",
-      "action": "Ação",
-      "remove": "Remover",
-      "title": "Título",
-      "date": "Data de adição",
-      "toastFailToRemoved": "Falha ao remover a música do álbum"
-    },
-    "moreByUserTitle": "Mais por {username}",
-    "modal": {
-      "confirmButton": "Sim, tenho certeza",
-      "cancelButton": "Não, cancelar",
-      "title": "Você tem certeza de que deseja removê-lo deste álbum?"
-    }
-  },
-  "user": {
-    "editUser": {
-      "edit": "Editar",
-      "saved": "Salvo",
-      "name": "Nome de usuário",
-      "modalTitle": "Editar Perfil",
-      "modalButtonText": "Salvar",
-      "uploadAvatar": "Carregar Avatar",
-      "userNameSchemaError": "O nome só pode conter letras minúsculas (a-z), números (0-9) e hífens (-); não pode começar com um número.",
-      "userNameNeedEdit": "nome de usuário não alterado",
-      "userNameExists": "O nome de usuário já existe"
-    },
-    "tab": {
-      "createMusic": "Criar Música",
-      "songs": "Canções",
-      "create": "Criar",
-      "albums": "Álbuns",
-      "createAlbum": "Criar Álbum",
-      "genres": "Gêneros",
-      "name": "Nome"
-    },
-    "songTable": {
-      "date": "Data de adição",
-      "action": "Ação",
-      "title": "Título",
-      "album": "Álbum",
-      "copyLinkToastDescription": "Link da música copiado",
-      "addToAlbum": "Adicionar ao álbum",
-      "copyLink": "Copiar Link da Música",
-      "download": "Baixar MP3",
-      "rename": "Renomear",
-      "renameToastDescription": "Salvo",
-      "private": "Privado",
-      "inProgress": "Em progresso",
-      "changeAlbumModalTitle": "Adicionar ao Álbum",
-      "renameModalButtonText": "Confirmar",
-      "delete": "Excluir",
-      "creating": "Criando",
-      "downloadUpgradeTitle": "Desbloqueie downloads ilimitados de música",
-      "downloadUpgradeButtonText": "Atualize Agora",
-      "privateUpgradeButtonText": "Atualize Sua Conta",
-      "privateUpgradeTitle": "Mantenha a sua música privada"
-    }
+  "user": {},
+  "blog": {
+    "notFoundTitle": "Sorry we couldnt find any blog.",
+    "notFoundDescription": "But dont worry, you can find plenty of other things on our homepage or change the language.",
+    "notFoundButtonText": "Back to homepage"
   },
   "notFound": {
-    "description": "Desculpe, não conseguimos encontrar essa página. Você encontrará muito para explorar na página inicial.",
-    "title": "Algo está faltando.",
-    "buttonText": "Voltar para a Página Inicial"
-  },
-  "musicGenerateModal": {
-    "pointsError": "Você não tem pontos suficientes para gerar uma música.",
-    "songGeneratingDescription": "Você pode verificar suas músicas na página de perfil",
-    "songGeneratingErrorTitle": "Hmm... Algo deu errado.",
-    "songRequired": "Descrição da música é necessária",
-    "songGeneratingTitle": "As suas músicas estão a ser geradas.",
-    "lyricsRequired": "Letra é necessária",
-    "genreRequired": "Gênero é obrigatório",
-    "songDescription": "Descrição da Música",
-    "songDescriptionPlaceholder": "Descreva o estilo de música e o tema que deseja (por exemplo, 'pop acústico sobre as férias'). Use gêneros e vibes em vez de artistas e músicas específicas.",
-    "titleRequired": "Título é obrigatório",
-    "autoMode": "Modo automático",
-    "instrumental": "Instrumental",
-    "tooltip": "Crie uma música sem letras.",
-    "customMode": "Modo personalizado",
-    "lyrics": "Letra",
-    "createMusic": "Criar Música",
-    "lyricsDescriptionPlaceholder": "Escreva o seu próprio, ou obtenha ajuda de IA. Use dois versos (8 linhas) para obter os melhores resultados.",
-    "genreTitle": "Estilo de Música",
-    "songTitle": "Título",
-    "randomStyle": "Usar Estilo Aleatório",
-    "songTitleDescriptionPlaceholder": "título para compartilhar, descobrir e organizar.",
-    "genreDescriptionPlaceholder": "Descreva o estilo de música que deseja (por exemplo, 'pop acústico'). Não reconheça nomes de artistas, mas entenda gêneros e vibrações."
+    "title": "Something's missing.",
+    "description": "Sorry, we can't find that page. You'll find lots to explore on the home page.",
+    "buttonText": "Back to Homepage"
   },
   "footer": {
-    "title": "Gerador de Música de IA",
+    "title": "nextjs-supabase-cloudflare",
+    "company": "Company",
+    "about": "About",
     "legal": "Legal",
-    "about": "Sobre",
-    "contact": "Contacto",
-    "privacyPolicy": "Política de Privacidade",
-    "company": "Empresa",
-    "termsOfService": "Termos de Serviço",
-    "contactUs": "Entre em contato"
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
   }
 }
