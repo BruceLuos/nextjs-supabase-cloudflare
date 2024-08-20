@@ -9,7 +9,6 @@ import {
 } from "@/utils/auth-helpers/settings";
 
 import PasswordSignIn from "@/components/ui/AuthForms/PasswordSignIn";
-import EmailSignIn from "@/components/ui/AuthForms/EmailSignIn";
 import Separator from "@/components/ui/AuthForms/Separator";
 import OauthSignIn from "@/components/ui/AuthForms/OauthSignIn";
 import ForgotPassword from "@/components/ui/AuthForms/ForgotPassword";

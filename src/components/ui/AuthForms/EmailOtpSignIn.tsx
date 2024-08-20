@@ -1,6 +1,5 @@
 "use client";
 
-import { Link } from "@/components/Link";
 import {
   resendOtpCodeEmail,
   signInWithEmailOtp,
@@ -8,7 +7,7 @@ import {
 } from "@/utils/auth-helpers/server";
 import { handleRequest } from "@/utils/auth-helpers/client";
 import { useRouter } from "next/navigation";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import { Button, Label, TextInput } from "flowbite-react";
 import { useTranslations } from "next-intl";
 
@@ -29,7 +28,6 @@ export default function EmailOtpSignIn({
   const [isOtpCodeSubmitting, setIsOtpCodeSubmitting] = useState(false);
 
   const [countdown, setCountdown] = useState(60);
-  const [optSendStatus, setOptSendStatus] = useState(optSend || false);
 
   // 进入这个页面时,如果有optSend，则设置一个60秒的倒计时状态
   useEffect(() => {
@@ -38,7 +36,6 @@ export default function EmailOtpSignIn({
       timer = setInterval(() => {
         setCountdown((prevCountdown) => {
           if (prevCountdown <= 1) {
-            setOptSendStatus(false);
             clearInterval(timer);
             return 0;
           } else {
@@ -51,12 +48,7 @@ export default function EmailOtpSignIn({
   }, [optSend]);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
-    // e.preventDefault();
     setIsSubmitting(true);
-    console.log("client", e.currentTarget);
-    const formData = new FormData(e.currentTarget);
-    console.log("clientformData", formData);
-
     await handleRequest(e, signInWithEmailOtp, router);
     setIsSubmitting(false);
   };
@@ -82,7 +74,6 @@ export default function EmailOtpSignIn({
       timer = setInterval(() => {
         setCountdown((prevCountdown) => {
           if (prevCountdown <= 1) {
-            setOptSendStatus(false);
             clearInterval(timer);
             return 0;
           } else {
