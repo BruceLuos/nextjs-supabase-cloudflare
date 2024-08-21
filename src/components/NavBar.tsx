@@ -24,8 +24,9 @@ interface NavBarProps {
 export default function NavBar({ user, locale, points }: NavBarProps) {
   const { toast } = useToast();
   const router = useRouter();
-  const currentPath =
-    locale && locale !== "en" ? usePathname() : usePathname_();
+  const localePath = usePathname();
+  const normalPath = usePathname_();
+  const currentPath = locale && locale !== "en" ? localePath : normalPath;
   const t = useTranslations("navbar");
   const [isLoading, setIsLoding] = useState(false);
   const navLink = [
@@ -240,7 +241,7 @@ export default function NavBar({ user, locale, points }: NavBarProps) {
             >
               {link.text}
             </Navbar.Link>
-          ) : null
+          ) : null,
         )}
       </Navbar.Collapse>
     </Navbar>
