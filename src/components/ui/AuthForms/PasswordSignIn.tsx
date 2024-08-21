@@ -5,7 +5,7 @@ import { signInWithPassword } from "@/utils/auth-helpers/server";
 import { handleRequest } from "@/utils/auth-helpers/client";
 import { useRouter } from "next/navigation";
 import React, { useState } from "react";
-import { Button, Checkbox, Label, TextInput } from "flowbite-react";
+import { Button, Label, TextInput } from "flowbite-react";
 import { useTranslations } from "next-intl";
 
 // Define prop type with allowEmail boolean
@@ -19,7 +19,8 @@ export default function PasswordSignIn({
   redirectMethod,
 }: PasswordSignInProps) {
   const t = useTranslations("authenticate");
-  const router = redirectMethod === "client" ? useRouter() : null;
+  const router_ = useRouter();
+  const router = redirectMethod === "client" ? router_ : null;
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -66,19 +67,6 @@ export default function PasswordSignIn({
         </div>
 
         <div className="flex items-center justify-start">
-          {/* <div className="flex items-start">
-            <div className="flex h-5 items-center">
-              <Checkbox id="remember-social" required className="dark:ring-0"/>
-            </div>
-            <div className="ml-3 text-sm">
-              <Label
-                htmlFor="remember-social"
-                className="text-gray-500 dark:text-gray-300"
-              >
-                Remember me
-              </Label>
-            </div>
-          </div> */}
           <Link
             href="/sign-in/forgot_password"
             className="text-sm font-medium text-primary-600 hover:underline dark:text-primary-500"

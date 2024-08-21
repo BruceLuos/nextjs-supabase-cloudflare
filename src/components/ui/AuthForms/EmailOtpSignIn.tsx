@@ -23,7 +23,8 @@ export default function EmailOtpSignIn({
   email,
 }: EmailSignInProps) {
   const t = useTranslations("authenticate");
-  const router = redirectMethod === "client" ? useRouter() : null;
+  const router_ = useRouter();
+  const router = redirectMethod === "client" ? router_ : null;
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isOtpCodeSubmitting, setIsOtpCodeSubmitting] = useState(false);
 

@@ -10,7 +10,17 @@
     "pages:build": "bunx @cloudflare/next-on-pages",
     "preview": "bun run pages:build && wrangler pages dev --port 3000",
     "deploy": "bun run pages:build && wrangler pages deploy",
-    "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts"
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "**/*.{js,jsx,ts,tsx}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "**/*.{html,json,css,scss,md,mdx}": [
+      "prettier -w"
+    ]
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.576.0",
@@ -50,6 +60,8 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240614.0",
+    "@commitlint/cli": "^19.4.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@next/bundle-analyzer": "^14.2.3",
     "@tailwindcss/typography": "^0.5.10",
     "@types/lodash": "^4.17.0",
@@ -62,10 +74,15 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.1.2",
+    "husky": "^9.1.5",
+    "lint-staged": "^15.2.9",
     "postcss": "^8",
+    "prettier": "^3.3.3",
     "tailwindcss": "^3.3.0",
     "typescript": "^5",
     "wrangler": "^3.61.0"
   },
-  "resolutions": { "string-width": "4.2.3" }
+  "resolutions": {
+    "string-width": "4.2.3"
+  }
 }
