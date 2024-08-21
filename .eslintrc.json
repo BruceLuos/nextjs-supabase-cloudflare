@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    // 未转义字符只警告
+    "react/no-unescaped-entities": "warn"
+  }
+}
