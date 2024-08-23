@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import LanguageChanger from "./LanguageChange";
 import { usePathname } from "@/navigation";
 import { useTranslations } from "next-intl";
-import { usePathname as usePathname_, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { handleRequest } from "@/utils/auth-helpers/client";
 import { SignOut } from "@/utils/auth-helpers/server";
 import { Users } from "@/utils/db-operation";
@@ -14,6 +14,7 @@ import { Link } from "./Link";
 import { UserHeadset } from "flowbite-react-icons/outline";
 import { useToast } from "./ui/FlowbiteToasts/use-toast";
 import config from "@/config";
+import Image from "next/image";
 
 interface NavBarProps {
   user: Users | null;
@@ -24,9 +25,7 @@ interface NavBarProps {
 export default function NavBar({ user, locale, points }: NavBarProps) {
   const { toast } = useToast();
   const router = useRouter();
-  const localePath = usePathname();
-  const normalPath = usePathname_();
-  const currentPath = locale && locale !== "en" ? localePath : normalPath;
+  const currentPath = usePathname();
   const t = useTranslations("navbar");
   const [isLoading, setIsLoding] = useState(false);
   const navLink = [
@@ -86,9 +85,11 @@ export default function NavBar({ user, locale, points }: NavBarProps) {
         href="/"
         className="flex items-center space-x-3 rtl:space-x-reverse"
       >
-        <img
+        <Image
           src={config.siteMetadata.siteLogo}
-          className="h-8"
+          width={32}
+          height={32}
+          className="w-8 h-8"
           alt="site logo"
         />
         <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
